@@ -1,2 +1,2 @@
 # devops-skill-list
-Notes of skills for devops jobs
+Notes of skills for devops jobs - still drafting.
