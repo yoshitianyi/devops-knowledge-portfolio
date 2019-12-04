@@ -46,16 +46,26 @@ Culture – Automation – Lean – Measurement – Sharing.
   * Process and Virtual File System
   * Linux File Hierarchy Standard
   * Environment Variables
+  * Systemd / Upstart
+* Basic Commands and Daemons
+  * cron / logrotate / syslog
+  * ifconfig / route / iptables
 * GNU bash / coreutils / diffutils / findutils / etc.
+* Docker / Kubernetes
 * Windows Server / WSL
 * Internet Protocol Suite
+  * The OSI Model
   * TCP / UDP / ICMP / IPv4 / IPv6 / ARP
   * FTP / SMTP / DNS / DHCP / LDAP
   * Email <https://tools.ietf.org/html/rfc5322>
+  * BIND <https://www.isc.org/bind/> / dig
+  * tcpdump / Wireshark
 * World Wide Web
   * URI / URL <https://tools.ietf.org/html/rfc3986>
   * HTTP / cookie <https://tools.ietf.org/html/rfc6265>
-  * HTML / DOM <https://www.w3.org/DOM/DOMTR>
+  * XML / DOM <https://www.w3.org/DOM/DOMTR>
+  * HTML / CSS
+  * YAML / JSON / HJSON
   * cURL <https://curl.haxx.se/>
 * Security
   * X.509 Public Key Infrastructure (PKI) certificates <https://tools.ietf.org/html/rfc3280>
@@ -63,18 +73,43 @@ Culture – Automation – Lean – Measurement – Sharing.
   * SNI (Server Name Indication) <https://tools.ietf.org/html/rfc6066>
   * OpenSSL <https://www.openssl.org/>
   * Secure Shell (SSH) Transport Layer Protocol <https://tools.ietf.org/html/rfc4253>
-  * OpenSSH / Tunnelling <https://www.openssh.com/manual.html>
+  * OpenSSH <https://www.openssh.com/manual.html> / Tunnelling
   * OAuth 2.0 Authorization Framework <https://tools.ietf.org/html/rfc6749>
   * OpenIDConnect <https://openid.net/developers/specs/>
   * JWT (JSON Web Token) <https://tools.ietf.org/html/rfc7519>
   * CORS (Cross-Origin Resource Sharing) <https://www.w3.org/TR/cors/>
+  * VPN protocols
 * OSS Middleware
   * NGINX
+  * Apache Web Server
   * Tomcat
   * ElasticSearch
   * Redis
   * Postgresql / pgAdmin / pgBadger
+  * MySQL
   * MongoDB
+  * uWSGI <https://uwsgi-docs.readthedocs.io/en/latest/>
+* OSS Development Platform
+  * GitHub
+  * StackOverflow
+  * Quora
+  * DockerHub
+  * npmjs
+* Monitoring and Analytics
+  * InfluxDB / Telegraf
+  * Promethus
+  * Grafana
+  * Grafana Loki
+  * ElasticSearch
+  * Logstash
+  * Beats
+  * Kibana
+  * Fluentd
+  * Icinga
+  * AWS CloudWatch/Logs
+  * Datadog/Logs
+  * Azure Application Insights
+  * Azure Monitor
 * Amazon Web Services
   * EC2 / ASG / VPC
   * Lambda / API Gateway
@@ -106,13 +141,13 @@ Culture – Automation – Lean – Measurement – Sharing.
   * Confluence
   * JIRA
   * Teams
-  * SharePoint
   * Azure Board
   * Hubot
 * Code Management
   * Git / BFG (cleanup tool) / Git LFS
   * GitLab
   * SonarQube / OWASP Top 10
+  * Azure Repos
 * IDE and Editors
   * VS Code
   * Atom
@@ -120,7 +155,7 @@ Culture – Automation – Lean – Measurement – Sharing.
   * Chrome Debugger
   * Vim
   * ZSH / oh-my-zsh
-* Package or Version Manager
+* Package or Version Management
   * NPM
   * Yarn
   * NVM
@@ -131,6 +166,7 @@ Culture – Automation – Lean – Measurement – Sharing.
   * RVM
   * Sonartype Nexus3 RM
 * Task Manager and Utilities
+  * Make
   * Ant
   * Maven
   * Gradle
@@ -145,11 +181,9 @@ Culture – Automation – Lean – Measurement – Sharing.
   * AWS CLI
   * Azure CLI
   * Azure PowerShell
-  * Serverless
+  * Serverless Framework
   * Hashicorp Packer
   * Hashicorp Terraform
-  * Codenize.tools
-  * Docker
   * AWS CloudFormation
   * Azure Resource Manager
   * Hashicorp Vault
@@ -165,23 +199,9 @@ Culture – Automation – Lean – Measurement – Sharing.
   * Hashicorp Vagrant
   * OWASP ZAP
   * Postman
-* Monitoring and Analytics
-  * InfluxDB / Telegraf
-  * Grafana
-  * Datadog/Logs
-  * ElasticSearch
-  * Logstash
-  * Beats
-  * Kibana
-  * Fluentd
-  * AWS CloudWatch/Logs
-  * Azure Application Insights
-  * Azure Monitor
 
 ## LANGUAGES & FRAMEWORKS
 
-* HTML/CSS
-* XML/YAML/JSON/HJSON
 * Markdown
 * Asciidoc <https://asciidoctor.org/>
 * PlantUML <http://plantuml.com/>
@@ -195,6 +215,7 @@ Culture – Automation – Lean – Measurement – Sharing.
 * Python <https://www.python.org/>
   * Django <https://docs.djangoproject.com/en/2.2/>
 * Ruby
+* Go
 * Java
 * Scala (for Gatling)
 * Lua (in Nginx)
