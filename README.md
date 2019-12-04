@@ -1,5 +1,8 @@
 # DevOps Skill List
 
+An opinionated skill list to build effecive systems and teams with the CALMS mindset:
+Culture – Automation – Lean – Measurement – Sharing.
+
 ## TECHNIQUES
 
 * Orthogonality and DRY principle <https://www.artima.com/intv/dry.html>
@@ -23,9 +26,11 @@
 * Microservices <https://martinfowler.com/articles/microservices.html>
 * Immutable Infrastructure / Infrastructure as Code
 * Continuous Integration and Delivery
-* AAA: Authentication / Auithorization / Accounting
+* Test-Driven Development
 * Theory of Constraints <https://www.tocico.org/page/WhatisTOCoverview>
 * Toyota Production System <https://global.toyota/en/company/vision-and-philosophy/production-system/>
+* Total Quality Managemant / ISO 9001
+* Gamification
 * ISO/IEC 12207 (Software Life Cycle Process)
 * ISO/IEC 15288 (System Life Cycle Process)
 * ISO/IEC 15504 (SPICE: Software Process Improvement and Capability dEtermination) / CMMI <https://cmmiinstitute.com/>
