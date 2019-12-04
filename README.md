@@ -6,25 +6,27 @@ Culture – Automation – Lean – Measurement – Sharing.
 ## TECHNIQUES
 
 * Orthogonality and DRY principle <https://www.artima.com/intv/dry.html>
-* The C4 model <https://c4model.com/>
-* RESTful system constraints <https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints>
-* The Zen of Python <https://www.python.org/dev/peps/pep-0020/>
-* Unix Philosophy <https://en.wikipedia.org/wiki/Unix_philosophy>
-* The Perl Philosophy (reference) <http://modernperlbooks.com/books/modern_perl_2016/01-perl-philosophy.html>
-* Semantic Versioning (reference) <https://semver.org/>
-* keep a changelog (reference) <https://keepachangelog.com/en/1.0.0/>
+* Object-oriented Design
+  * SOLID / The principle of OOD <http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod>
+  * UML and UML metamodel <https://www.omg.org/spec/UML/About-UML/>
 * Agile Software Development
   * Agile Manifesto <https://agilemanifesto.org/>
   * Scrum / Kanban / Scrumban
   * Extreme Programming <http://www.extremeprogramming.org/>
   * INVEST in Good Stories, and SMART Tasks <https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/>
-* Object-oriented Design
-  * SOLID / The principle of OOD <http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod>
-  * UML and UML metamodel <https://www.omg.org/spec/UML/About-UML/>
+* The C4 model <https://c4model.com/>
+* RESTful system constraints <https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints>
+* The Zen of Python <https://www.python.org/dev/peps/pep-0020/>
+* Unix Philosophy <https://en.wikipedia.org/wiki/Unix_philosophy>
+* Lessons in "The Cathedral and the Bazaar"
+* Semantic Versioning <https://semver.org/>
+* keep a changelog <https://keepachangelog.com/en/1.0.0/>
+* GitLab Values <https://about.gitlab.com/handbook/values/>
 * Design by Contract <https://www.eiffel.com/values/design-by-contract/>
-* Functional Programming (reference)
+* Functional Programming
 * Microservices <https://martinfowler.com/articles/microservices.html>
-* Immutable Infrastructure / Infrastructure as Code
+* Immutable Infrastructure
+* Infrastructure as Code
 * Continuous Integration and Delivery
 * Test-Driven Development
 * Theory of Constraints <https://www.tocico.org/page/WhatisTOCoverview>
