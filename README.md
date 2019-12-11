@@ -33,6 +33,7 @@ Culture – Automation – Lean – Measurement – Sharing.
 * Toyota Production System <https://global.toyota/en/company/vision-and-philosophy/production-system/>
 * Total Quality Managemant / ISO 9001
 * Gamification
+* DIKW Pyramid <https://en.wikipedia.org/wiki/DIKW_pyramid>
 * ISO/IEC 12207 (Software Life Cycle Process)
 * ISO/IEC 15288 (System Life Cycle Process)
 * ISO/IEC 15504 (SPICE: Software Process Improvement and Capability dEtermination) / CMMI <https://cmmiinstitute.com/>
@@ -42,15 +43,17 @@ Culture – Automation – Lean – Measurement – Sharing.
 
 ## PLATFORMS
 
-* Unix / Linux Kernel
+* Unix / Linux
   * Process and Virtual File System
   * Linux File Hierarchy Standard
   * Environment Variables
   * Systemd / Upstart
-* Basic Commands and Daemons
   * cron / logrotate / syslog
   * ifconfig / route / iptables
-* GNU bash / coreutils / diffutils / findutils / etc.
+* Basic Commands
+  * GNU bash / coreutils / diffutils / findutils / etc.
+  * Regular Expressions / awk / sed / grep / tr
+  * JSONPath / jq
 * Docker / Kubernetes
 * Windows Server / WSL
 * Internet Protocol Suite
@@ -79,7 +82,7 @@ Culture – Automation – Lean – Measurement – Sharing.
   * JWT (JSON Web Token) <https://tools.ietf.org/html/rfc7519>
   * CORS (Cross-Origin Resource Sharing) <https://www.w3.org/TR/cors/>
   * VPN protocols
-* OSS Middleware
+* Middleware
   * NGINX
   * Apache Web Server
   * Tomcat
@@ -89,12 +92,13 @@ Culture – Automation – Lean – Measurement – Sharing.
   * MySQL
   * MongoDB
   * uWSGI <https://uwsgi-docs.readthedocs.io/en/latest/>
-* OSS Development Platform
+* OSS Development Community
   * GitHub
   * StackOverflow
   * Quora
   * DockerHub
   * npmjs
+  * PyPI
 * Monitoring and Analytics
   * InfluxDB / Telegraf
   * Promethus
@@ -155,15 +159,16 @@ Culture – Automation – Lean – Measurement – Sharing.
   * Chrome Debugger
   * Vim
   * ZSH / oh-my-zsh
-* Package or Version Management
-  * NPM
-  * Yarn
-  * NVM
-  * Bower
-  * PIP (PyPI)
+* Package or Version Manager
+  * apt / dpkg / fpm
+  * npm
+  * yarn
+  * nvm / nodeenv
+  * bower
+  * pip
   * virtualenv (python)
-  * RubyGems
-  * RVM
+  * rubygems
+  * rvm
   * Sonartype Nexus3 RM
 * Task Manager and Utilities
   * Make
@@ -206,7 +211,6 @@ Culture – Automation – Lean – Measurement – Sharing.
 * Asciidoc <https://asciidoctor.org/>
 * PlantUML <http://plantuml.com/>
 * Vega and Vega-Lite
-* Regular Expressions / AWK / sed
 * Javascript <https://developer.mozilla.org/en-US/docs/Web/JavaScript>
   * Node.js <https://nodejs.org/en/>
   * ExpressJS <https://expressjs.com/>
