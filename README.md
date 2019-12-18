@@ -53,23 +53,28 @@ Culture – Automation – Lean – Measurement – Sharing.
 * Basic Commands
   * GNU bash / coreutils / diffutils / findutils / etc.
   * Regular Expressions / awk / sed / grep / tr
-  * JSONPath / jq
+  * JSONPath / jq <https://stedolan.github.io/jq/>
 * Docker / Kubernetes
 * Windows Server / WSL
 * Internet Protocol Suite
-  * The OSI Model
+  * The OSI Model <https://en.wikipedia.org/wiki/OSI_model>
   * TCP / UDP / ICMP / IPv4 / IPv6 / ARP
   * FTP / SMTP / DNS / DHCP / LDAP
   * Email <https://tools.ietf.org/html/rfc5322>
   * BIND <https://www.isc.org/bind/> / dig
-  * tcpdump / Wireshark
+  * tcpdump <https://www.tcpdump.org/>
+  * Wireshark <https://www.wireshark.org/>
 * World Wide Web
   * URI / URL <https://tools.ietf.org/html/rfc3986>
   * HTTP / cookie <https://tools.ietf.org/html/rfc6265>
-  * XML / DOM <https://www.w3.org/DOM/DOMTR>
-  * HTML / CSS
-  * YAML / JSON / HJSON
-  * cURL <https://curl.haxx.se/>
+  * cURL command <https://curl.haxx.se/>
+  * HTML <https://html.spec.whatwg.org/multipage/>
+  * CSS <https://www.w3.org/Style/CSS/>
+  * XML <https://www.w3.org/XML/>
+  * DOM <https://www.w3.org/DOM/DOMTR>
+  * YAML <https://yaml.org/>
+  * JSON <https://www.json.org/json-en.html>
+  * HJSON <https://hjson.org/>
 * Security
   * X.509 Public Key Infrastructure (PKI) certificates <https://tools.ietf.org/html/rfc3280>
   * TLS (Transport Layer Security) <https://tools.ietf.org/html/rfc8446>
