@@ -179,6 +179,7 @@ Culture – Automation – Lean – Measurement – Sharing.
   * gulp
   * PM2 (nodejs)
   * babel
+  * Yeoman <https://yeoman.io/>
 * Deployment
   * Jenkins
   * Azure Pipeline
