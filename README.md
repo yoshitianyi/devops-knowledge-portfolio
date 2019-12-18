@@ -76,7 +76,7 @@ Culture – Automation – Lean – Measurement – Sharing.
   * SNI (Server Name Indication) <https://tools.ietf.org/html/rfc6066>
   * OpenSSL <https://www.openssl.org/>
   * Secure Shell (SSH) Transport Layer Protocol <https://tools.ietf.org/html/rfc4253>
-  * OpenSSH <https://www.openssh.com/manual.html> / Tunnelling
+  * OpenSSH <https://www.openssh.com/> / SSH Tunnelling
   * OAuth 2.0 Authorization Framework <https://tools.ietf.org/html/rfc6749>
   * OpenIDConnect <https://openid.net/developers/specs/>
   * JWT (JSON Web Token) <https://tools.ietf.org/html/rfc7519>
