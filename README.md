@@ -196,7 +196,7 @@ Culture – Automation – Lean – Measurement – Sharing.
   * Concourse CI
   * Pulumi
 * Test
-  * Protoractor
+  * Protractor
   * Selenium WebDriver
   * mocha / chai / mochawsome
   * Python nose
