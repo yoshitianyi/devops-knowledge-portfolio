@@ -49,7 +49,7 @@ Culture – Automation – Lean – Measurement – Sharing.
   * Environment Variables
   * Systemd <https://freedesktop.org/wiki/Software/systemd/>
   * OpenRC <https://wiki.gentoo.org/wiki/OpenRC>
-  * cron / logrotate / syslog
+  * cron / logrotate
   * ifconfig / route / iptables
 * Basic Commands
   * GNU bash / coreutils / diffutils / findutils / etc.
@@ -62,6 +62,7 @@ Culture – Automation – Lean – Measurement – Sharing.
   * TCP / UDP / ICMP / IPv4 / IPv6 / ARP
   * FTP / SMTP / DNS / DHCP / LDAP
   * Email <https://tools.ietf.org/html/rfc5322>
+  * Syslog <https://tools.ietf.org/html/rfc5424>
   * BIND <https://www.isc.org/bind/> / dig
   * tcpdump <https://www.tcpdump.org/>
   * Wireshark <https://www.wireshark.org/>
