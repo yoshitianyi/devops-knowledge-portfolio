@@ -213,20 +213,21 @@ Culture – Automation – Lean – Measurement – Sharing.
 
 ## LANGUAGES & FRAMEWORKS
 
-* Markdown
+* Markdown <https://tools.ietf.org/html/rfc7763>
 * Asciidoc <https://asciidoctor.org/>
 * PlantUML <http://plantuml.com/>
-* Vega and Vega-Lite
+* Vega <https://vega.github.io/vega/>
+* Vega-Lite <https://vega.github.io/vega-lite/>
 * Javascript <https://developer.mozilla.org/en-US/docs/Web/JavaScript>
   * Node.js <https://nodejs.org/en/>
   * ExpressJS <https://expressjs.com/>
   * AngularJS Configuration File – app.config.js
-* Typescript
+* Typescript <https://www.typescriptlang.org/index.html>
 * Python <https://www.python.org/>
   * Django <https://docs.djangoproject.com/en/2.2/>
-* Ruby
-* Go
-* Java
+* Ruby <https://www.ruby-lang.org/en/>
+* Go <https://golang.org/>
+* Java <https://docs.oracle.com/en/java/index.html>
 * Scala (for Gatling)
 * Lua (in Nginx)
 * Groovy (in Jenkins)
