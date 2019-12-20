@@ -6,6 +6,7 @@ Culture – Automation – Lean – Measurement – Sharing.
 ## TECHNIQUES
 
 * Orthogonality and DRY principle <https://www.artima.com/intv/dry.html>
+* GitLab Values <https://about.gitlab.com/handbook/values/>
 * Object-oriented Design
   * SOLID / The principle of OOD <http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod>
   * UML and UML metamodel <https://www.omg.org/spec/UML/About-UML/>
@@ -21,7 +22,6 @@ Culture – Automation – Lean – Measurement – Sharing.
 * Lessons in "The Cathedral and the Bazaar"
 * Semantic Versioning <https://semver.org/>
 * keep a changelog <https://keepachangelog.com/en/1.0.0/>
-* GitLab Values <https://about.gitlab.com/handbook/values/>
 * Design by Contract <https://www.eiffel.com/values/design-by-contract/>
 * Functional Programming
 * Microservices <https://martinfowler.com/articles/microservices.html>
