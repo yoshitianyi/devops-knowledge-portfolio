@@ -47,7 +47,8 @@ Culture – Automation – Lean – Measurement – Sharing.
   * Process and Virtual File System
   * Linux File Hierarchy Standard
   * Environment Variables
-  * Systemd / Upstart
+  * Systemd <https://freedesktop.org/wiki/Software/systemd/>
+  * OpenRC <https://wiki.gentoo.org/wiki/OpenRC>
   * cron / logrotate / syslog
   * ifconfig / route / iptables
 * Basic Commands
