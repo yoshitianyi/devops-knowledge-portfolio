@@ -178,14 +178,14 @@ Culture – Automation – Lean – Measurement – Sharing.
   * rvm
   * Sonartype Nexus3 RM
 * Task Manager and Utilities
-  * Make
-  * Ant
-  * Maven
-  * Gradle
-  * Grunt
-  * gulp
-  * PM2 (nodejs)
-  * babel
+  * Make <https://www.gnu.org/software/make/>
+  * Ant <https://ant.apache.org/>
+  * Maven <https://maven.apache.org/>
+  * Gradle <https://gradle.org/>
+  * Grunt <https://gruntjs.com/>
+  * gulp <https://gulpjs.com/>
+  * PM2 (nodejs) <https://pm2.keymetrics.io/>
+  * babel <https://babeljs.io/>
   * Yeoman <https://yeoman.io/>
 * Deployment
   * Jenkins
@@ -230,13 +230,13 @@ Culture – Automation – Lean – Measurement – Sharing.
 * Ruby <https://www.ruby-lang.org/en/>
 * Go <https://golang.org/>
 * Java <https://docs.oracle.com/en/java/index.html>
-* Scala (for Gatling)
-* Lua (in Nginx)
-* Groovy (in Jenkins)
+* Scala (for Gatling) <https://www.scala-lang.org/>
+* Lua (in Nginx) <https://www.lua.org/>
+* Groovy (in Jenkins) <http://groovy-lang.org/>
 * SQL
-* Bash
-* PowerShell
-* HCL (Hashicorp Configuration)
+* Bash <https://www.gnu.org/software/bash/>
+* PowerShell <https://docs.microsoft.com/en-us/powershell/>
+* HCL (Hashicorp Configuration) <https://github.com/hashicorp/hcl>
 * Jinja2 (Templating) <https://jinja.palletsprojects.com/en/2.10.x/>
 * Javadoc <https://docs.oracle.com/javase/9/javadoc/javadoc.htm>
 * apiDoc <http://apidocjs.com/>
