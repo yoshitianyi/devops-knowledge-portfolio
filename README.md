@@ -233,7 +233,6 @@ Culture – Automation – Lean – Measurement – Sharing.
 * Scala (for Gatling) <https://www.scala-lang.org/>
 * Lua (in Nginx) <https://www.lua.org/>
 * Groovy (in Jenkins) <http://groovy-lang.org/>
-* SQL
 * Bash <https://www.gnu.org/software/bash/>
 * PowerShell <https://docs.microsoft.com/en-us/powershell/>
 * HCL (Hashicorp Configuration) <https://github.com/hashicorp/hcl>
