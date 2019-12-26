@@ -241,4 +241,5 @@ Culture – Automation – Lean – Measurement – Sharing.
 * Javadoc <https://docs.oracle.com/javase/9/javadoc/javadoc.htm>
 * apiDoc <http://apidocjs.com/>
 * JSDoc <https://jsdoc.app/>
+* Sphinx <http://www.sphinx-doc.org/en/master/>
 * OpenAPI (Swagger) <https://swagger.io/docs/specification/about/>
