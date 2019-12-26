@@ -226,7 +226,8 @@ Culture – Automation – Lean – Measurement – Sharing.
   * AngularJS Configuration File – app.config.js
 * Typescript <https://www.typescriptlang.org/index.html>
 * Python <https://www.python.org/>
-  * Django <https://docs.djangoproject.com/en/2.2/>
+  * Django <https://www.djangoproject.com/>
+  * Flask <https://www.palletsprojects.com/p/flask/>
 * Ruby <https://www.ruby-lang.org/en/>
 * Go <https://golang.org/>
 * Java <https://docs.oracle.com/en/java/index.html>
@@ -236,7 +237,7 @@ Culture – Automation – Lean – Measurement – Sharing.
 * Bash <https://www.gnu.org/software/bash/>
 * PowerShell <https://docs.microsoft.com/en-us/powershell/>
 * HCL (Hashicorp Configuration) <https://github.com/hashicorp/hcl>
-* Jinja2 (Templating) <https://jinja.palletsprojects.com/en/2.10.x/>
+* Jinja (Templating) <https://www.palletsprojects.com/p/jinja/>
 * Javadoc <https://docs.oracle.com/javase/9/javadoc/javadoc.htm>
 * apiDoc <http://apidocjs.com/>
 * JSDoc <https://jsdoc.app/>
