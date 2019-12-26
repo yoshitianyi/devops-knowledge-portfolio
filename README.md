@@ -90,15 +90,15 @@ Culture – Automation – Lean – Measurement – Sharing.
   * CORS (Cross-Origin Resource Sharing) <https://www.w3.org/TR/cors/>
   * VPN protocols
 * Middleware
-  * NGINX
-  * Apache Web Server
-  * Tomcat
-  * ElasticSearch
-  * Redis
-  * Postgresql / pgAdmin / pgBadger
-  * MySQL
-  * MongoDB
+  * NGINX <https://www.nginx.com/>
+  * Apache Web Server <https://httpd.apache.org/>
+  * Tomcat <http://tomcat.apache.org/>
   * uWSGI <https://uwsgi-docs.readthedocs.io/en/latest/>
+  * ElasticSearch <https://www.elastic.co/products/elasticsearch>
+  * MongoDB <https://www.mongodb.com/>
+  * Redis <https://redis.io/>
+  * Postgresql <https://www.postgresql.org/> / pgAdmin / pgBadger
+  * MySQL <https://www.mysql.com/>
 * OSS Development Community
   * GitHub
   * StackOverflow
