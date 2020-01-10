@@ -157,6 +157,7 @@ Culture – Automation – Lean – Measurement – Sharing.
 * Code Management
   * Git / BFG (cleanup tool) / Git LFS
   * GitLab
+  * ESLint <https://eslint.org/> / TSLint
   * SonarQube / OWASP Top 10
   * Azure Repos
 * IDE and Editors
@@ -166,6 +167,7 @@ Culture – Automation – Lean – Measurement – Sharing.
   * Chrome Debugger
   * Vim
   * ZSH / oh-my-zsh
+  * EditorConfig <https://editorconfig.org/>
 * Package or Version Manager
   * apt / dpkg / fpm
   * npm
@@ -207,6 +209,7 @@ Culture – Automation – Lean – Measurement – Sharing.
   * Protractor
   * Selenium WebDriver
   * mocha / chai / mochawsome
+  * Karma <https://karma-runner.github.io>
   * Python nose
   * Gatling
   * Hashicorp Vagrant
