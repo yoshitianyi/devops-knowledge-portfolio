@@ -44,26 +44,29 @@ Culture – Automation – Lean – Measurement – Sharing.
 ## PLATFORMS
 
 * Unix / Linux
-  * Process and Virtual File System
-  * Linux File Hierarchy Standard
-  * Environment Variables
-  * Systemd <https://freedesktop.org/wiki/Software/systemd/>
+  * Processs and threads -- ps / top / htop
+  * File system and permissions -- lsof / chmod / chown
+  * User environment -- printenv
+  * Unix domain socket and named pipe
+  * Systemd <https://www.freedesktop.org/wiki/Software/systemd/>
+  * D-Bus <https://www.freedesktop.org/wiki/Software/dbus/>
   * OpenRC <https://wiki.gentoo.org/wiki/OpenRC>
   * cron / logrotate
-  * ifconfig / route / iptables
-* Basic Commands
+  * ifconfig / route / iptables / netstat
+* Basic Utilities
   * GNU bash / coreutils / diffutils / findutils / etc.
-  * Regular Expressions / awk / sed / grep / tr
-  * JSONPath / jq <https://stedolan.github.io/jq/>
+  * Regular Expressions -- awk / sed / grep / tr
+  * JSONPath -- jq <https://stedolan.github.io/jq/>
 * Docker / Kubernetes
 * Windows Server / WSL
+  * MINGW <http://www.mingw.org/>
 * Internet Protocol Suite
   * The OSI Model <https://en.wikipedia.org/wiki/OSI_model>
   * TCP / UDP / ICMP / IPv4 / IPv6 / ARP
   * FTP / SMTP / DNS / DHCP / LDAP
   * Email <https://tools.ietf.org/html/rfc5322>
   * Syslog <https://tools.ietf.org/html/rfc5424>
-  * BIND <https://www.isc.org/bind/> / dig
+  * BIND <https://www.isc.org/bind/> -- dig
   * tcpdump <https://www.tcpdump.org/>
   * Wireshark <https://www.wireshark.org/>
 * World Wide Web
@@ -234,6 +237,7 @@ Culture – Automation – Lean – Measurement – Sharing.
 * Ruby <https://www.ruby-lang.org/en/>
 * Go <https://golang.org/>
 * Java <https://docs.oracle.com/en/java/index.html>
+  * Spring <https://spring.io/>
 * Scala (for Gatling) <https://www.scala-lang.org/>
 * Lua (in Nginx) <https://www.lua.org/>
 * Groovy (in Jenkins) <http://groovy-lang.org/>
