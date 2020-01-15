@@ -210,15 +210,17 @@ Culture – Automation – Lean – Measurement – Sharing.
   * Concourse CI
   * Pulumi
 * Test
-  * Protractor
-  * Selenium WebDriver
-  * mocha / chai / mochawsome
+  * Mocha <https://mochajs.org/> and Chai <https://www.chaijs.com/>
+  * Protractor <https://www.protractortest.org/#/>
+  * Selenium WebDriver <https://selenium.dev/documentation/en/webdriver/>
+  * Hashicorp Vagrant <https://www.vagrantup.com/>
+  * Gatling <https://gatling.io/>
+  * OWASP ZAP <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>
+  * Postman <https://www.getpostman.com/>
   * Karma <https://karma-runner.github.io>
-  * Python nose
-  * Gatling
-  * Hashicorp Vagrant
-  * OWASP ZAP
-  * Postman
+  * Python nose <https://nose.readthedocs.io/en/latest/>
+  * JUnit <https://junit.org/junit5/>
+  * Cucumber <https://cucumber.io/>
 
 ## LANGUAGES & FRAMEWORKS
 
