@@ -48,13 +48,13 @@ Culture – Automation – Lean – Measurement – Sharing.
   * File system and permissions -- lsof / chmod / chown
   * User environment -- printenv
   * Unix domain socket and named pipe
+  * Networking -- ifconfig / route / iptables / netstat
   * Systemd <https://www.freedesktop.org/wiki/Software/systemd/>
   * D-Bus <https://www.freedesktop.org/wiki/Software/dbus/>
   * OpenRC <https://wiki.gentoo.org/wiki/OpenRC>
-  * cron / logrotate
-  * ifconfig / route / iptables / netstat
 * Basic Utilities
   * GNU bash / coreutils / diffutils / findutils / etc.
+  * cron / logrotate
   * Regular Expressions -- awk / sed / grep / tr
   * JSONPath -- jq <https://stedolan.github.io/jq/>
 * Docker / Kubernetes
