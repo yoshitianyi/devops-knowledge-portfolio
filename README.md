@@ -3,6 +3,8 @@
 An opinionated skill list to build effecive systems and teams with the CALMS mindset:
 Culture – Automation – Lean – Measurement – Sharing.
 
+*Still under construction.*
+
 ## TECHNIQUES
 
 * Orthogonality and DRY principle <https://www.artima.com/intv/dry.html>
@@ -220,6 +222,7 @@ Culture – Automation – Lean – Measurement – Sharing.
   * Karma <https://karma-runner.github.io>
   * Python nose <https://nose.readthedocs.io/en/latest/>
   * JUnit <https://junit.org/junit5/>
+  * Jasmine <https://jasmine.github.io/>
   * Cucumber <https://cucumber.io/>
 
 ## LANGUAGES & FRAMEWORKS
@@ -232,13 +235,15 @@ Culture – Automation – Lean – Measurement – Sharing.
 * Javascript <https://developer.mozilla.org/en-US/docs/Web/JavaScript>
   * Node.js <https://nodejs.org/en/>
   * ExpressJS <https://expressjs.com/>
-  * AngularJS Configuration File – app.config.js
+  * React <https://reactjs.org/>
 * Typescript <https://www.typescriptlang.org/index.html>
+  * Angular <https://angular.io/>
 * Python <https://www.python.org/>
   * Django <https://www.djangoproject.com/>
   * Flask <https://www.palletsprojects.com/p/flask/>
 * Ruby <https://www.ruby-lang.org/en/>
 * Go <https://golang.org/>
+* C++ <https://isocpp.org/>
 * Java <https://docs.oracle.com/en/java/index.html>
   * Spring <https://spring.io/>
 * Scala (for Gatling) <https://www.scala-lang.org/>
@@ -247,7 +252,9 @@ Culture – Automation – Lean – Measurement – Sharing.
 * Bash <https://www.gnu.org/software/bash/>
 * PowerShell <https://docs.microsoft.com/en-us/powershell/>
 * HCL (Hashicorp Configuration) <https://github.com/hashicorp/hcl>
-* Jinja (Templating) <https://www.palletsprojects.com/p/jinja/>
+* Jinja2 <https://www.palletsprojects.com/p/jinja/>
+* Nunjucks <https://mozilla.github.io/nunjucks/>
+* mustache <https://mustache.github.io/>
 * Javadoc <https://docs.oracle.com/javase/9/javadoc/javadoc.htm>
 * apiDoc <http://apidocjs.com/>
 * JSDoc <https://jsdoc.app/>
