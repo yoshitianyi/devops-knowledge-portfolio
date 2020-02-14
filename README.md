@@ -44,11 +44,11 @@ Culture – Automation – Lean – Measurement – Sharing.
 * ISO/IEC 27001 (Information security standard) / ISMS
 * ISO/IEC/IEEE 42010 (Architecture description)
 
-## Tools / Protocols
+## Tools and Standards
 
 ### Unix / Linux Basics
 
-* Processs and threads -- ps / top / htop
+* Processes and threads -- ps / top / htop
 * File system and permissions -- lsof / chmod / chown
 * User environment -- envsubst
 * Unix domain socket and named pipe
@@ -284,6 +284,7 @@ Culture – Automation – Lean – Measurement – Sharing.
 ### Test
 
 * Mocha <https://mochajs.org/> and Chai <https://www.chaijs.com/>
+* Jest https://jestjs.io/
 * Protractor <https://www.protractortest.org/#/>
 * Selenium WebDriver <https://selenium.dev/documentation/en/webdriver/>
 * Gatling <https://gatling.io/>
