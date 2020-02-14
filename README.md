@@ -1,6 +1,6 @@
 # DevOps Skill List
 
-An opinionated skill list to build effecive systems and teams with the CALMS mindset:
+An opinionated skill list to build effective systems and teams with the CALMS mindset:
 Culture – Automation – Lean – Measurement – Sharing.
 
 *Still under construction.*
