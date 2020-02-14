@@ -5,7 +5,7 @@ Culture – Automation – Lean – Measurement – Sharing.
 
 *Still under construction.*
 
-## People
+## People and Product
 
 * Orthogonality and DRY principle <https://www.artima.com/intv/dry.html>
 * GitLab Values <https://about.gitlab.com/handbook/values/>
@@ -15,11 +15,13 @@ Culture – Automation – Lean – Measurement – Sharing.
 * Lessons in "The Cathedral and the Bazaar"
 * Gamification
 * DIKW Pyramid <https://en.wikipedia.org/wiki/DIKW_pyramid>
+* Theory of Constraints <https://www.tocico.org/page/WhatisTOCoverview>
+* Principles of Lean Toyota Production System https://flevy.com/blog/14-principles-of-lean-toyota-production-system-tps/
+* Design by Contract <https://www.eiffel.com/values/design-by-contract/>
+* SOLID / The principle of OOD <http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod>
 
 ## Process and Practices
 
-* SOLID / The principle of OOD <http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod>
-* UML and UML metamodel <https://www.omg.org/spec/UML/About-UML/>
 * Scrum / Kanban / Scrumban
 * Extreme Programming <http://www.extremeprogramming.org/>
 * INVEST in Good Stories, and SMART Tasks <https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/>
@@ -27,15 +29,12 @@ Culture – Automation – Lean – Measurement – Sharing.
 * RESTful system constraints <https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints>
 * Semantic Versioning <https://semver.org/>
 * keep a changelog <https://keepachangelog.com/en/1.0.0/>
-* Design by Contract <https://www.eiffel.com/values/design-by-contract/>
 * Functional Programming
 * Microservices <https://martinfowler.com/articles/microservices.html>
 * Immutable Infrastructure
 * Infrastructure as Code
 * Continuous Integration and Delivery
 * Test-Driven Development
-* Theory of Constraints <https://www.tocico.org/page/WhatisTOCoverview>
-* Toyota Production System <https://global.toyota/en/company/vision-and-philosophy/production-system/>
 * Total Quality Managemant / ISO 9001
 * ISO/IEC 12207 (Software Life Cycle Process)
 * ISO/IEC 15288 (System Life Cycle Process)
@@ -43,6 +42,7 @@ Culture – Automation – Lean – Measurement – Sharing.
 * ISO/IEC 20000 (IT service management) / ITIL
 * ISO/IEC 27001 (Information security standard) / ISMS
 * ISO/IEC/IEEE 42010 (Architecture description)
+* UML and UML metamodel <https://www.omg.org/spec/UML/About-UML/>
 
 ## Tools and Standards
 
