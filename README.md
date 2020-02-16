@@ -10,26 +10,36 @@ Culture – Automation – Lean – Measurement – Sharing.
 * Orthogonality and DRY principle <https://www.artima.com/intv/dry.html>
 * GitLab Values <https://about.gitlab.com/handbook/values/>
 * Agile Manifesto <https://agilemanifesto.org/>
-* The Zen of Python <https://www.python.org/dev/peps/pep-0020/>
 * Unix Philosophy <https://en.wikipedia.org/wiki/Unix_philosophy>
-* Lessons in "The Cathedral and the Bazaar"
-* Gamification
 * DIKW Pyramid <https://en.wikipedia.org/wiki/DIKW_pyramid>
 * Theory of Constraints <https://www.tocico.org/page/WhatisTOCoverview>
 * Principles of Lean Toyota Production System https://flevy.com/blog/14-principles-of-lean-toyota-production-system-tps/
 * Design by Contract <https://www.eiffel.com/values/design-by-contract/>
 * SOLID / The principle of OOD <http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod>
+* Psychological safety <https://en.wikipedia.org/wiki/Psychological_safety>
+* Maslow’s Hierarchy of Needs
+* Dickerson’s Hierarchy of Service Reliability
+* Seven stages of action <https://en.wikipedia.org/wiki/Seven_stages_of_action>
+* Broken windows theory <https://en.wikipedia.org/wiki/Broken_windows_theory>
+* Systems theory <https://en.wikipedia.org/wiki/Systems_theory>
+* Game theory <https://en.wikipedia.org/wiki/Game_theory>
+* _The Pragmatic Programmer_ <https://en.wikipedia.org/wiki/The_Pragmatic_Programmer>
+* _The Mythical Man-Month_ <https://en.wikipedia.org/wiki/The_Mythical_Man-Month>
+* _The Cathedral and the Bazaar_ <https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar>
 
 ## Process and Practices
 
 * Scrum / Kanban / Scrumban
 * Extreme Programming <http://www.extremeprogramming.org/>
 * INVEST in Good Stories, and SMART Tasks <https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/>
+* Delegation Poker <https://management30.com/practice/delegation-poker/>
 * The C4 model <https://c4model.com/>
 * RESTful system constraints <https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints>
 * Semantic Versioning <https://semver.org/>
 * keep a changelog <https://keepachangelog.com/en/1.0.0/>
+* The Zen of Python <https://www.python.org/dev/peps/pep-0020/>
 * Functional Programming
+* Aspect-oriented Programming
 * Microservices <https://martinfowler.com/articles/microservices.html>
 * Immutable Infrastructure
 * Infrastructure as Code
