@@ -294,9 +294,10 @@ Culture – Automation – Lean – Measurement – Sharing.
 ### Test
 
 * Mocha <https://mochajs.org/> and Chai <https://www.chaijs.com/>
-* Jest https://jestjs.io/
+* Jest <https://jestjs.io/>
 * Protractor <https://www.protractortest.org/#/>
 * Selenium WebDriver <https://selenium.dev/documentation/en/webdriver/>
+* Puppeter <https://pptr.dev/>
 * Gatling <https://gatling.io/>
 * OWASP ZAP <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>
 * Postman <https://www.getpostman.com/>
