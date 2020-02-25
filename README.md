@@ -3,7 +3,7 @@
 An opinionated skill list to build effective systems and teams with the CALMS mindset:
 Culture – Automation – Lean – Measurement – Sharing.
 
-*Still under construction.*
+Currently, this is just a personal note. This may be related to many other 'awesome-devops' repos.
 
 ## People and Product
 
@@ -13,7 +13,7 @@ Culture – Automation – Lean – Measurement – Sharing.
 * Unix Philosophy <https://en.wikipedia.org/wiki/Unix_philosophy>
 * DIKW Pyramid <https://en.wikipedia.org/wiki/DIKW_pyramid>
 * Theory of Constraints <https://www.tocico.org/page/WhatisTOCoverview>
-* Principles of Lean Toyota Production System https://flevy.com/blog/14-principles-of-lean-toyota-production-system-tps/
+* Principles of Lean Toyota Production System <https://flevy.com/blog/14-principles-of-lean-toyota-production-system-tps/>
 * Design by Contract <https://www.eiffel.com/values/design-by-contract/>
 * SOLID / The principle of OOD <http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod>
 * Psychological safety <https://en.wikipedia.org/wiki/Psychological_safety>
