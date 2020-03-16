@@ -58,18 +58,17 @@ Currently, this is just a personal note. This may be related to many other 'awes
 
 ### Unix / Linux Basics
 
-* Processes and threads -- ps / top / htop
-* File system and permissions -- lsof / chmod / chown
-* User environment -- envsubst
+* Processes, threads, environments and signals -- ps / top / htop / lsof
+* File system and permissions -- ls / ln / df / mount / chmod / mkfs
+* Users and groups -- adduser / sudo / chown
 * Unix domain socket and named pipe
 * Networking -- ifconfig / route / iptables / netstat
 * Systemd <https://www.freedesktop.org/wiki/Software/systemd/>
 * D-Bus <https://www.freedesktop.org/wiki/Software/dbus/>
 * OpenRC <https://wiki.gentoo.org/wiki/OpenRC>
 * GNU bash / coreutils / diffutils / findutils / etc.
-* cron / logrotate
 * Regular Expressions -- awk / sed / grep / tr
-* JSONPath -- jq <https://stedolan.github.io/jq/>
+* cron / logrotate / envsubst
 * zsh / oh-my-zsh
 
 ### Container
@@ -109,6 +108,7 @@ Currently, this is just a personal note. This may be related to many other 'awes
 * JSON <https://www.json.org/json-en.html>
 * HJSON <https://hjson.org/>
 * OpenAPI (Swagger) <https://swagger.io/docs/specification/about/>
+* JSONPath -- jq <https://stedolan.github.io/jq/>
 
 ### Security
 
