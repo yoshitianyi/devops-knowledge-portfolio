@@ -327,6 +327,7 @@ Currently, this is just a personal note. This may be related to many other 'awes
 * Javascript <https://developer.mozilla.org/en-US/docs/Web/JavaScript>
   * Node.js <https://nodejs.org/en/>
   * ExpressJS <https://expressjs.com/>
+  * Lodash <https://lodash.com/>
   * React <https://reactjs.org/>
   * babel <https://babeljs.io/>
 * Typescript <https://www.typescriptlang.org/index.html>
