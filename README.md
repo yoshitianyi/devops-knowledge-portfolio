@@ -209,10 +209,15 @@ Currently, this is just a personal note. This may be related to many other 'awes
 
 ### Code Management
 
-* Git / BFG (cleanup tool) / Git LFS
-* GitLab
+* Git <https://git-scm.com/>
+* BFG Repo-Cleaner <https://rtyley.github.io/bfg-repo-cleaner/>
+* GitLab SCM <https://about.gitlab.com/>
+* GitHub <https://github.com/>
 * ESLint <https://eslint.org/> / TSLint
-* SonarQube / OWASP Top 10
+* Pylint <https://www.pylint.org/>
+* Prettier <https://prettier.io/>
+* SonarQube <https://www.sonarqube.org/>
+* OWASP Top 10 <https://owasp.org/www-project-top-ten/>
 * Azure Repos
 
 ### IDE and Editors
