@@ -254,6 +254,7 @@ Currently, this is just a personal note. This may be related to many other 'awes
 ### Build System
 
 * Make <https://www.gnu.org/software/make/>
+* Rake <https://ruby.github.io/rake/>
 * Ant <https://ant.apache.org/>
 * Maven <https://maven.apache.org/>
 * Gradle <https://gradle.org/>
@@ -356,3 +357,4 @@ Currently, this is just a personal note. This may be related to many other 'awes
 * Jinja2 <https://www.palletsprojects.com/p/jinja/>
 * Nunjucks <https://mozilla.github.io/nunjucks/>
 * mustache <https://mustache.github.io/>
+* Jsonnet <https://jsonnet.org/>
