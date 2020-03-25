@@ -319,6 +319,7 @@ Currently, this is just a personal note. This may be related to many other 'awes
 * Asciidoc <https://asciidoctor.org/>
 * PlantUML <http://plantuml.com/>
 * Javadoc <https://docs.oracle.com/javase/9/javadoc/javadoc.htm>
+* RDoc <https://ruby.github.io/rdoc/>
 * apiDoc <http://apidocjs.com/>
 * JSDoc <https://jsdoc.app/>
 * Sphinx <http://www.sphinx-doc.org/en/master/>
