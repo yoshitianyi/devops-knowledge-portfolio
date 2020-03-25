@@ -308,6 +308,7 @@ Currently, this is just a personal note. This may be related to many other 'awes
 * OWASP ZAP <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>
 * Postman <https://www.getpostman.com/>
 * Karma <https://karma-runner.github.io>
+* RSpec <https://rspec.info/>
 * Python nose <https://nose.readthedocs.io/en/latest/>
 * JUnit <https://junit.org/junit5/>
 * Jasmine <https://jasmine.github.io/>
