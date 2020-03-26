@@ -1,9 +1,10 @@
-# DevOps Skill List
+# DevOps Knowledge Notes
 
-An opinionated skill list to build effective systems and teams with the CALMS mindset:
+An opinionated knowledge list to build effective systems and teams with the CALMS mindset:
 Culture – Automation – Lean – Measurement – Sharing.
+The list may relate to many other 'awesome-devops' repos.
 
-Currently, this is just a personal note. This may be related to many other 'awesome-devops' repos.
+Currently, this is just a personal memo and significant changes may be performed. 
 
 ## People and Product
 
