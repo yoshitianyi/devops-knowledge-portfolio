@@ -105,10 +105,14 @@ Currently, this is just a personal memo and significant changes may be performed
 * CSS <https://www.w3.org/Style/CSS/>
 * XML <https://www.w3.org/XML/>
 * DOM <https://www.w3.org/DOM/DOMTR>
-* YAML <https://yaml.org/>
+* OpenAPI (Swagger) <https://swagger.io/docs/specification/about/>
+
+### Data Exchange
+
 * JSON <https://www.json.org/json-en.html>
 * HJSON <https://hjson.org/>
-* OpenAPI (Swagger) <https://swagger.io/docs/specification/about/>
+* YAML <https://yaml.org/>
+* TOML <https://github.com/toml-lang/toml>
 * JSONPath -- jq <https://stedolan.github.io/jq/>
 
 ### Security
