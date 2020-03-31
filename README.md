@@ -293,6 +293,7 @@ Currently, this is just a personal memo and significant changes may be performed
 * AWS CloudFormation
 * Azure Resource Manager
 * Pulumi
+* cloud-init <https://cloud-init.io/>
 
 ### Secret Management
 
