@@ -329,6 +329,7 @@ Currently, this is just a personal memo and significant changes may be performed
 * apiDoc <http://apidocjs.com/>
 * JSDoc <https://jsdoc.app/>
 * Sphinx <http://www.sphinx-doc.org/en/master/>
+* Groff <https://www.gnu.org/software/groff/>
 
 ### Diagramming as Code
 
