@@ -323,7 +323,7 @@ Currently, this is just a personal memo and significant changes may be performed
 ### Documentation as Code
 
 * Markdown <https://tools.ietf.org/html/rfc7763>
-* Asciidoc <https://asciidoctor.org/>
+* Asciidoc <http://asciidoc.org/> / Asciidoctor <https://asciidoctor.org/>
 * PlantUML <http://plantuml.com/>
 * Javadoc <https://docs.oracle.com/javase/9/javadoc/javadoc.htm>
 * RDoc <https://ruby.github.io/rdoc/>
