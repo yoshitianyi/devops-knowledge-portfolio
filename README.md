@@ -324,17 +324,18 @@ Currently, this is just a personal memo and significant changes may be performed
 
 * Markdown <https://tools.ietf.org/html/rfc7763>
 * Asciidoc <http://asciidoc.org/> / Asciidoctor <https://asciidoctor.org/>
-* PlantUML <http://plantuml.com/>
 * Javadoc <https://docs.oracle.com/javase/9/javadoc/javadoc.htm>
 * RDoc <https://ruby.github.io/rdoc/>
 * apiDoc <http://apidocjs.com/>
 * JSDoc <https://jsdoc.app/>
 * Sphinx <http://www.sphinx-doc.org/en/master/>
 
-### Visualization as Code
+### Diagramming as Code
 
+* PlantUML <http://plantuml.com/>
 * Vega <https://vega.github.io/vega/>
 * Vega-Lite <https://vega.github.io/vega-lite/>
+* Kroki <https://kroki.io/>
 
 ### Programming Languages and Frameworks
 
