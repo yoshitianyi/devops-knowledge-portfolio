@@ -72,17 +72,31 @@ Currently, this is just a personal memo and significant changes may be performed
 * cron / logrotate / envsubst
 * zsh / oh-my-zsh
 
-### Container
+### Container Management
 
-* Docker
-* Kubernetes
+* Docker <https://www.docker.com/>
+
+### Process Run Management
+
+* Hashicorp Nomad <https://nomadproject.io/>
+* Docker Swarm <https://docs.docker.com/engine/swarm/>
+* Kubernetes <https://kubernetes.io/>
+* PM2 (nodejs) <https://pm2.keymetrics.io/>
+
+### Service Mesh
+
+* Hashicorp Consul <https://www.consul.io/>
+* Istio <https://istio.io/>
 
 ### Windows
 
 * Windows Server
 * WSL
-* Git Bash (MINGW)
 * Windows Terminal
+* Git for Windows (MINGW)
+* Windows CMD
+* CIFS
+* RDP
 
 ### Internet Protocol Suite
 
@@ -265,10 +279,6 @@ Currently, this is just a personal memo and significant changes may be performed
 * Gradle <https://gradle.org/>
 * Grunt <https://gruntjs.com/>
 * gulp <https://gulpjs.com/>
-
-### Process Manager
-
-* PM2 <https://pm2.keymetrics.io/>
 
 ### Scaffolding
 
