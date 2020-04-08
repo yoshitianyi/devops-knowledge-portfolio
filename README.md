@@ -248,13 +248,13 @@ Currently, this is just a personal memo and significant changes may be performed
 ### Package Management
 
 * apt / dpkg / fpm
-* maven
 * npm
 * yarn
 * bower
 * pip
 * rubygems
 * bundler
+* homebrew <https://brew.sh/>
 
 ### Artifact Management
 
