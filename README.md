@@ -141,7 +141,6 @@ Currently, this is just a personal memo and significant changes may be performed
 * OpenIDConnect <https://openid.net/developers/specs/>
 * JWT (JSON Web Token) <https://tools.ietf.org/html/rfc7519>
 * CORS (Cross-Origin Resource Sharing) <https://www.w3.org/TR/cors/>
-* VPN protocols
 
 ### Web/App Server
 
@@ -178,7 +177,6 @@ Currently, this is just a personal memo and significant changes may be performed
 * Beats
 * Kibana
 * Fluentd
-* Icinga
 * AWS CloudWatch/Logs
 * Datadog/Logs
 * Azure Application Insights
@@ -243,7 +241,6 @@ Currently, this is just a personal memo and significant changes may be performed
 
 * VS Code
 * Atom
-* eclipse
 * Chrome Debugger
 * Vim
 * EditorConfig <https://editorconfig.org/>
