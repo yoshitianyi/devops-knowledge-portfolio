@@ -290,21 +290,21 @@ Currently, this is just a personal memo and significant changes may be performed
 
 ### Deployment
 
-* Ansible
-* AWS CLI
-* Azure CLI
-* Azure PowerShell
-* Serverless Framework
-* Hashicorp Packer
-* Hashicorp Terraform
-* AWS CloudFormation
-* Azure Resource Manager
-* Pulumi
+* Ansible <https://www.ansible.com/>
+* Serverless Framework <https://serverless.com/>
+* Hashicorp Packer <https://packer.io/>
+* Hashicorp Terraform <https://www.terraform.io/>
+* AWS CLI <https://aws.amazon.com/cli/>
+* AWS CloudFormation <https://aws.amazon.com/cloudformation/>
+* Azure CLI <https://docs.microsoft.com/en-us/cli/azure/>
+* Azure PowerShell <https://docs.microsoft.com/en-us/powershell/azure/>
+* Azure Resource Manager <https://docs.microsoft.com/en-us/azure/azure-resource-manager/>
+* Pulumi <https://www.pulumi.com/>
 * cloud-init <https://cloud-init.io/>
 
 ### Secret Management
 
-* Hashicorp Vault
+* Hashicorp Vault <https://www.vaultproject.io/>
 
 ### VM Management
 
