@@ -57,6 +57,16 @@ Currently, this is just a personal memo and significant changes may be performed
 
 ## Tools and Standards
 
+### Software Registry
+
+* GitHub <https://github.com/>
+* DockerHub <https://hub.docker.com/>
+* npm <https://www.npmjs.com/>
+* PyPI <https://pypi.org/>
+* RubyGems.org <https://rubygems.org/>
+* snapcraft <https://snapcraft.io/>
+* homebrew <https://brew.sh/>
+
 ### Unix / Linux Basics
 
 * Processes, threads, environments and signals -- ps / top / htop / lsof
@@ -157,15 +167,6 @@ Currently, this is just a personal memo and significant changes may be performed
 * Postgresql <https://www.postgresql.org/> / pgAdmin / pgBadger
 * MySQL <https://www.mysql.com/>
 
-### OSS Development Community
-
-* GitHub
-* StackOverflow
-* Quora
-* DockerHub
-* npmjs
-* PyPI
-
 ### Monitoring
 
 * InfluxDB / Telegraf
@@ -247,13 +248,14 @@ Currently, this is just a personal memo and significant changes may be performed
 
 ### Package Management
 
-* apt / dpkg / fpm
-* npm
-* yarn
-* bower
-* pip
-* rubygems
-* bundler
+* Debian package management <https://www.debian.org/>
+* fpm <https://fpm.readthedocs.io/>
+* npm <https://npm.community/>
+* yarn <https://yarnpkg.com/>
+* bower <https://bower.io/>
+* pip <https://pip.pypa.io/>
+* RubyGems <https://rubygems.org/>
+* bundler <https://bundler.io/>
 * homebrew <https://brew.sh/>
 
 ### Artifact Management
