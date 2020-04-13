@@ -105,8 +105,8 @@ Currently, this is just a personal memo and significant changes may be performed
 * Windows Terminal
 * Git for Windows (MINGW)
 * Windows CMD
-* CIFS
-* RDP
+* CIFS - Samba <https://www.samba.org/>
+* RDP - xrdp <http://xrdp.org/>
 
 ### Internet Protocol Suite
 
