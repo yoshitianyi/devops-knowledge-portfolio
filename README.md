@@ -339,6 +339,9 @@ Currently, this is just a personal memo and significant changes may be performed
 * JSDoc <https://jsdoc.app/>
 * Sphinx <http://www.sphinx-doc.org/en/master/>
 * Groff <https://www.gnu.org/software/groff/>
+* GitBook <https://www.gitbook.com/>
+* Docusaurus <https://docusaurus.io/>
+* VuePress <https://vuepress.vuejs.org/>
 
 ### Diagramming as Code
 
