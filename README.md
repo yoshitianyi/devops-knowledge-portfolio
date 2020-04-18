@@ -177,6 +177,7 @@ Currently, this is just a personal memo and significant changes may be performed
 ### Diagramming as Code
 
 * PlantUML <http://plantuml.com/>
+* Mermaid <https://mermaidjs.github.io/>
 * Vega <https://vega.github.io/vega/>
 * Vega-Lite <https://vega.github.io/vega-lite/>
 * Kroki <https://kroki.io/>
