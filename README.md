@@ -61,10 +61,10 @@ Currently, this is just a personal memo and significant changes may be performed
 
 * GitHub <https://github.com/>
 * DockerHub <https://hub.docker.com/>
-* Helm <https://helm.sh/>
+* Helm Hub <https://hub.helm.sh/>
 * npm <https://www.npmjs.com/>
 * PyPI <https://pypi.org/>
-* RubyGems.org <https://rubygems.org/>
+* RubyGems <https://rubygems.org/>
 * snapcraft <https://snapcraft.io/>
 * homebrew <https://brew.sh/>
 
@@ -248,6 +248,7 @@ Currently, this is just a personal memo and significant changes may be performed
 
 * Kubernetes <https://kubernetes.io/>
   * Minikube <https://minikube.sigs.k8s.io/docs/>
+  * Helm <https://helm.sh/>
 * Docker Swarm <https://docs.docker.com/engine/swarm/>
 * Hashicorp Nomad <https://nomadproject.io/>
 * PM2 (nodejs) <https://pm2.keymetrics.io/>
@@ -276,13 +277,13 @@ Currently, this is just a personal memo and significant changes may be performed
 
 * Debian package management <https://www.debian.org/>
 * fpm <https://fpm.readthedocs.io/>
-* npm <https://npm.community/>
+* npm cli <https://npm.community/>
 * yarn <https://yarnpkg.com/>
 * bower <https://bower.io/>
 * pip <https://pip.pypa.io/>
-* RubyGems <https://rubygems.org/>
+* RubyGems cli <https://rubygems.org/>
 * bundler <https://bundler.io/>
-* homebrew <https://brew.sh/>
+* homebrew cli <https://brew.sh/>
 
 ### Artifact Management
 
