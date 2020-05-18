@@ -61,6 +61,7 @@ Currently, this is just a personal memo and significant changes may be performed
 
 * GitHub <https://github.com/>
 * DockerHub <https://hub.docker.com/>
+* Helm <https://helm.sh/>
 * npm <https://www.npmjs.com/>
 * PyPI <https://pypi.org/>
 * RubyGems.org <https://rubygems.org/>
