@@ -245,9 +245,10 @@ Currently, this is just a personal memo and significant changes may be performed
 
 ### Process Run Management
 
-* Hashicorp Nomad <https://nomadproject.io/>
-* Docker Swarm <https://docs.docker.com/engine/swarm/>
 * Kubernetes <https://kubernetes.io/>
+  * Minikube <https://minikube.sigs.k8s.io/docs/>
+* Docker Swarm <https://docs.docker.com/engine/swarm/>
+* Hashicorp Nomad <https://nomadproject.io/>
 * PM2 (nodejs) <https://pm2.keymetrics.io/>
 
 ### Service Mesh
