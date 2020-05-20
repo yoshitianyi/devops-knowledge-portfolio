@@ -241,11 +241,11 @@ Currently, this is just a personal memo and significant changes may be performed
 * Jasmine <https://jasmine.github.io/>
 * Cucumber <https://cucumber.io/>
 
-### Container Management
+### Containerization
 
 * Docker <https://www.docker.com/>
 
-### Process Run Management
+### Orchestration
 
 * Kubernetes <https://kubernetes.io/>
   * Minikube <https://minikube.sigs.k8s.io/docs/>
@@ -253,6 +253,11 @@ Currently, this is just a personal memo and significant changes may be performed
 * Docker Swarm <https://docs.docker.com/engine/swarm/>
 * Hashicorp Nomad <https://nomadproject.io/>
 * PM2 (nodejs) <https://pm2.keymetrics.io/>
+
+### Serverless
+
+* OpenFaaS <https://www.openfaas.com/>
+* KNative <https://knative.dev/>
 
 ### Service Mesh
 
