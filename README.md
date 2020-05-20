@@ -66,6 +66,7 @@ Currently, this is just a personal memo and significant changes may be performed
 * PyPI <https://pypi.org/>
 * RubyGems <https://rubygems.org/>
 * snapcraft <https://snapcraft.io/>
+* Flathub <https://flathub.org/home>
 * homebrew <https://brew.sh/>
 
 ### Programming Languages and Frameworks
@@ -283,6 +284,7 @@ Currently, this is just a personal memo and significant changes may be performed
 * pip <https://pip.pypa.io/>
 * RubyGems cli <https://rubygems.org/>
 * bundler <https://bundler.io/>
+* Flatpak <https://flatpak.org/>
 * homebrew cli <https://brew.sh/>
 
 ### Artifact Management
