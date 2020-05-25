@@ -157,7 +157,9 @@ Currently, this is just a personal memo and significant changes may be performed
 ### Data Exchange
 
 * JSON <https://www.json.org/json-en.html>
-* HJSON <https://hjson.org/>
+  * Hjson <https://hjson.org/>
+  * JSON5 <https://json5.org/>
+  * jsonc <https://komkom.github.io/>
 * YAML <https://yaml.org/>
 * TOML <https://github.com/toml-lang/toml>
 * JSONPath -- jq <https://stedolan.github.io/jq/>
