@@ -30,14 +30,15 @@ Currently, this is just a personal memo and significant changes may be performed
 
 ## Process and Practices
 
+* The twelve-factor app <https://12factor.net/>
+* Semantic Versioning <https://semver.org/>
+* keep a changelog <https://keepachangelog.com/en/1.0.0/>
 * Scrum / Kanban / Scrumban
 * Extreme Programming <http://www.extremeprogramming.org/>
 * INVEST in Good Stories, and SMART Tasks <https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/>
 * Delegation Poker <https://management30.com/practice/delegation-poker/>
 * The C4 model <https://c4model.com/>
 * RESTful system constraints <https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints>
-* Semantic Versioning <https://semver.org/>
-* keep a changelog <https://keepachangelog.com/en/1.0.0/>
 * The Zen of Python <https://www.python.org/dev/peps/pep-0020/>
 * Functional Programming
 * Aspect-oriented Programming
@@ -138,7 +139,6 @@ Currently, this is just a personal memo and significant changes may be performed
 * Networking -- ifconfig / route / iptables / netstat
 * Systemd <https://www.freedesktop.org/wiki/Software/systemd/>
 * D-Bus <https://www.freedesktop.org/wiki/Software/dbus/>
-* OpenRC <https://wiki.gentoo.org/wiki/OpenRC>
 * GNU bash / coreutils / diffutils / findutils / etc.
 * Regular Expressions -- awk / sed / grep / tr
 * cron / logrotate / envsubst
@@ -246,6 +246,7 @@ Currently, this is just a personal memo and significant changes may be performed
 ### Containerization
 
 * Docker <https://www.docker.com/>
+* QuarkusIO <https://quarkus.io/>
 
 ### Orchestration
 
@@ -376,6 +377,7 @@ Currently, this is just a personal memo and significant changes may be performed
 
 ### PaaS
 
+* Heroku <https://www.heroku.com/>
 * Amazon Web Services
   * Lambda / API Gateway
   * S3
