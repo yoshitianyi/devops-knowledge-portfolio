@@ -24,6 +24,57 @@
 * Bash <https://www.gnu.org/software/bash/>
 * PowerShell <https://docs.microsoft.com/en-us/powershell/>
 
+## Code Management and Registry
+
+* Git <https://git-scm.com/>
+* BFG Repo-Cleaner <https://rtyley.github.io/bfg-repo-cleaner/>
+* GitLab SCM <https://about.gitlab.com/>
+* GitHub <https://github.com/>
+* ESLint <https://eslint.org/>
+* Pylint <https://www.pylint.org/>
+* Prettier <https://prettier.io/>
+* SonarQube <https://www.sonarqube.org/>
+* Azure Repos <https://azure.microsoft.com/en-us/services/devops/repos/>
+
+## Package Management and Registry
+
+* Debian package management (apt) <https://www.debian.org/>
+* fpm <https://fpm.readthedocs.io/>
+* yarn <https://yarnpkg.com/>
+* bower <https://bower.io/>
+* Flatpak <https://flatpak.org/>
+* npm <https://www.npmjs.com/>
+* PyPI <https://pypi.org/> / pip <https://pip.pypa.io/>
+* RubyGems <https://rubygems.org/>
+* bundler <https://bundler.io/>
+* snapcraft <https://snapcraft.io/>
+* Flathub <https://flathub.org/home>
+* homebrew <https://brew.sh/>
+* Sonartype Nexus RM3 <https://help.sonatype.com/repomanager3>
+* Azure Artifacts <https://azure.microsoft.com/en-us/services/devops/artifacts/>
+
+## Build Tools
+
+* Make <https://www.gnu.org/software/make/>
+* Rake <https://ruby.github.io/rake/>
+* Ant <https://ant.apache.org/>
+* Maven <https://maven.apache.org/>
+* Gradle <https://gradle.org/>
+* Grunt <https://gruntjs.com/>
+* gulp <https://gulpjs.com/>
+
+## Data Exchange Formats
+
+* JSON <https://www.json.org/json-en.html>
+  * Hjson <https://hjson.org/>
+  * jsonc <https://komkom.github.io/>
+* YAML <https://yaml.org/>
+* TOML <https://github.com/toml-lang/toml>
+* JsonPath <https://goessner.net/articles/JsonPath/>
+  * jq <https://stedolan.github.io/jq/>
+* XML <https://www.w3.org/XML/>
+* XPath <https://www.w3.org/TR/xpath-31/>
+
 ## World Wide Web
 
 * URI / URL <https://tools.ietf.org/html/rfc3986>
@@ -31,19 +82,8 @@
 * cURL command <https://curl.haxx.se/>
 * HTML <https://html.spec.whatwg.org/multipage/>
 * CSS <https://www.w3.org/Style/CSS/>
-* XML <https://www.w3.org/XML/>
 * DOM <https://www.w3.org/DOM/DOMTR>
 * OpenAPI (Swagger) <https://swagger.io/docs/specification/about/>
-
-## Data Exchange
-
-* JSON <https://www.json.org/json-en.html>
-  * Hjson <https://hjson.org/>
-  * JSON5 <https://json5.org/>
-  * jsonc <https://komkom.github.io/>
-* YAML <https://yaml.org/>
-* TOML <https://github.com/toml-lang/toml>
-* JSONPath -- jq <https://stedolan.github.io/jq/>
 
 ## Documentation as Code
 
@@ -55,7 +95,6 @@
 * JSDoc <https://jsdoc.app/>
 * Sphinx <http://www.sphinx-doc.org/en/master/>
 * Groff <https://www.gnu.org/software/groff/>
-* GitBook <https://www.gitbook.com/>
 * Docusaurus <https://docusaurus.io/>
 * VuePress <https://vuepress.vuejs.org/>
 
@@ -74,36 +113,38 @@
 * mustache <https://mustache.github.io/>
 * Jsonnet <https://jsonnet.org/>
 
-## IDE and Editors
+## IDEs and Editors
 
-* VS Code
-* Atom
-* Chrome Debugger
-* Vim
+* VS Code <https://code.visualstudio.com/>
+* Chrome Dev Tools <https://developers.google.com/web/tools/chrome-devtools/>
+* Vim <https://www.vim.org/>
+* Notepad++ <https://notepad-plus-plus.org/>
 * EditorConfig <https://editorconfig.org/>
 
-## Code Management
+## Web/App Servers
 
-* Git <https://git-scm.com/>
-* BFG Repo-Cleaner <https://rtyley.github.io/bfg-repo-cleaner/>
-* GitLab SCM <https://about.gitlab.com/>
-* GitHub <https://github.com/>
-* ESLint <https://eslint.org/> / TSLint
-* Pylint <https://www.pylint.org/>
-* Prettier <https://prettier.io/>
-* SonarQube <https://www.sonarqube.org/>
-* OWASP Top 10 <https://owasp.org/www-project-top-ten/>
-* Azure Repos
+* NGINX <https://www.nginx.com/>
+* Apache Web Server <https://httpd.apache.org/>
+* Tomcat <http://tomcat.apache.org/>
+* uWSGI <https://uwsgi-docs.readthedocs.io/en/latest/>
 
-## Test
+## Database/Cache Servers
+
+* ElasticSearch <https://www.elastic.co/products/elasticsearch>
+* MongoDB <https://www.mongodb.com/>
+* Redis <https://redis.io/>
+* Postgresql <https://www.postgresql.org/> / pgAdmin / pgBadger
+* MySQL <https://www.mysql.com/>
+
+## Test Tools and Frameworks
 
 * Mocha <https://mochajs.org/> and Chai <https://www.chaijs.com/>
 * Jest <https://jestjs.io/>
 * Protractor <https://www.protractortest.org/#/>
 * Selenium WebDriver <https://selenium.dev/documentation/en/webdriver/>
-* Puppeter <https://pptr.dev/>
+* Selenium IDE <https://www.selenium.dev/selenium-ide/>
+* Puppeter <https://developers.google.com/web/tools/puppeteer>
 * Gatling <https://gatling.io/>
-* OWASP ZAP <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>
 * Postman <https://www.getpostman.com/>
 * Karma <https://karma-runner.github.io>
 * RSpec <https://rspec.info/>
@@ -112,22 +153,20 @@
 * Jasmine <https://jasmine.github.io/>
 * Cucumber <https://cucumber.io/>
 
-## Scripting Runtime Version Management
+## Sandbox Builder
 
-* nvm / nodeenv
-* virtualenv (python)
-* rvm
-
-## Build System
-
-* Make <https://www.gnu.org/software/make/>
-* Rake <https://ruby.github.io/rake/>
-* Ant <https://ant.apache.org/>
-* Maven <https://maven.apache.org/>
-* Gradle <https://gradle.org/>
-* Grunt <https://gruntjs.com/>
-* gulp <https://gulpjs.com/>
+* nodeenv <https://ekalinin.github.io/nodeenv/>
+* virtualenv (python) <http://virtualenv.pypa.io/>
 
 ## Scaffolding
 
 * Yeoman <https://yeoman.io/>
+
+## Development VM Builder
+
+* Hashicorp Vagrant <https://www.vagrantup.com/>
+
+## Identity Management
+
+* Auth0 <https://auth0.com/>
+* Azure Active Directory <https://azure.microsoft.com/en-us/services/active-directory/>
