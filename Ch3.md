@@ -2,14 +2,13 @@
 
 ## Programming Languages and Frameworks
 
-* Javascript <https://developer.mozilla.org/en-US/docs/Web/JavaScript>
+* JavaScript/ECMAScript <https://www.ecma-international.org/publications/standards/Ecma-262.htm>
   * Node.js <https://nodejs.org/en/>
   * ExpressJS <https://expressjs.com/>
   * Lodash <https://lodash.com/>
   * React <https://reactjs.org/>
   * babel <https://babeljs.io/>
 * Typescript <https://www.typescriptlang.org/index.html>
-  * Angular <https://angular.io/>
 * Python <https://www.python.org/>
   * Django <https://www.djangoproject.com/>
   * Flask <https://www.palletsprojects.com/p/flask/>
