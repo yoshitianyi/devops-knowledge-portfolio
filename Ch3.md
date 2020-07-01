@@ -67,12 +67,12 @@
 * JSON <https://www.json.org/json-en.html>
   * Hjson <https://hjson.org/>
   * jsonc <https://komkom.github.io/>
+  * JMESPath <https://jmespath.org/>
+  * jq <https://stedolan.github.io/jq/>
 * YAML <https://yaml.org/>
 * TOML <https://github.com/toml-lang/toml>
-* JsonPath <https://goessner.net/articles/JsonPath/>
-  * jq <https://stedolan.github.io/jq/>
 * XML <https://www.w3.org/XML/>
-* XPath <https://www.w3.org/TR/xpath-31/>
+  * XPath <https://www.w3.org/TR/xpath-31/>
 
 ## World Wide Web
 
