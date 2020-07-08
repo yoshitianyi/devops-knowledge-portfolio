@@ -83,6 +83,8 @@
 * CSS <https://www.w3.org/Style/CSS/>
 * DOM <https://www.w3.org/DOM/DOMTR>
 * OpenAPI (Swagger) <https://swagger.io/docs/specification/about/>
+* WebSocket <https://tools.ietf.org/html/rfc6455>
+* gRPC <https://grpc.io/>
 
 ## Documentation as Code
 
