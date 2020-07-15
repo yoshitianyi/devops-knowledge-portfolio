@@ -3,9 +3,9 @@
 ## People and Product
 
 * 📃 Orthogonality and DRY principle <https://www.artima.com/intv/dry.html>
+* 📃 SOLID - The principle of OOD <http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod>
 * 📃 Agile Manifesto <https://agilemanifesto.org/>
-* 📃 Unix Philosophy <https://en.wikipedia.org/wiki/Unix_philosophy>
-* 📃 DIKW Pyramid <https://en.wikipedia.org/wiki/DIKW_pyramid>
+* 🎓 DIKW Pyramid <https://en.wikipedia.org/wiki/DIKW_pyramid>
 * 🎓 Psychological safety <https://en.wikipedia.org/wiki/Psychological_safety>
 * 🎓 Maslow’s Hierarchy of Needs
 * 🎓 Dickerson’s Hierarchy of Service Reliability
@@ -23,26 +23,23 @@
 * 📃 Semantic Versioning <https://semver.org/>
 * 📃 keep a changelog <https://keepachangelog.com/>
 * 📃 Truck Based Development <https://trunkbaseddevelopment.com/>
-* 📃 SOLID - The principle of OOD <http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod>
 * 📃 Principles of Lean Toyota Production System <https://flevy.com/blog/14-principles-of-lean-toyota-production-system-tps/>
 * 📃 Scrum vs Kanban vs Scrumban <https://eylean.com/scrum-vs-kanban-vs-scrumban/>
 * 📃 INVEST in Good Stories, and SMART Tasks <https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/>
 * 📃 Delegation Poker <https://management30.com/practice/delegation-poker/>
 * 📃 Microservices <https://martinfowler.com/articles/microservices.html>
-* 📃 RESTful system constraints <https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints>
 * 📃 The Zen of Python <https://www.python.org/dev/peps/pep-0020/>
+* 🎓 Representational state transfer <https://en.wikipedia.org/wiki/Representational_state_transfer>
+* 🎓 Unix Philosophy <https://en.wikipedia.org/wiki/Unix_philosophy>
+* 🎓 Acceptance Test-Driven Development <https://en.wikipedia.org/wiki/Acceptance_test%E2%80%93driven_development>
+* 🎓 Test-Driven Development <https://en.wikipedia.org/wiki/Test-driven_development>
+* 🎓 Functional Programming <https://en.wikipedia.org/wiki/Functional_programming>
 * 📙 Theory of Constraints <https://www.tocico.org/page/WhatisTOCoverview>
 * 📙 Toyota Production System <https://global.toyota/en/company/vision-and-philosophy/production-system/>
 * 📙 Design by Contract <https://www.eiffel.com/values/design-by-contract/>
 * 📙 Scrum <https://www.scrum.org/>
 * 📙 Extreme Programming <http://www.extremeprogramming.org/>
 * 📙 The C4 model <https://c4model.com/>
-* Functional Programming
-* Aspect-oriented Programming
-* Immutable Infrastructure
-* Infrastructure as Code
-* Continuous Integration and Delivery
-* Test-Driven Development
 * 📗 Total Quality Managemant / ISO 9001
 * 📗 ISO/IEC 12207 (Software Life Cycle Process)
 * 📗 ISO/IEC 15288 (System Life Cycle Process)
