@@ -8,6 +8,17 @@ Currently, this is just a personal memo and significant changes may be performed
 
 ## Table of Contents
 
-- [Software Fundementals](Ch1.md)
-- [Operational Knowledge](Ch2.md)
-- [Development Knowledge](Ch3.md)
+* [Software Fundementals](Ch1.md)
+* [Operational Knowledge](Ch2.md)
+* [Development Knowledge](Ch3.md)
+
+## Legends
+
+* 🔺 Cloud Service
+* 🔶 Software (Product)
+* 🔷 Software (OSS or Free)
+* 📗 Standard/Spec
+* 📙 Methodology
+* 📃 Technique
+* 🎓 Academic Topic
+* 📕 Book
