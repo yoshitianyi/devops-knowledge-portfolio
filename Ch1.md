@@ -21,8 +21,9 @@
 
 * 📃 The twelve-factor app <https://12factor.net/>
 * 📃 Semantic Versioning <https://semver.org/>
-* 📃 keep a changelog <https://keepachangelog.com/en/1.0.0/>
-* 📃 SOLID / The principle of OOD <http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod>
+* 📃 keep a changelog <https://keepachangelog.com/>
+* 📃 Truck Based Development <https://trunkbaseddevelopment.com/>
+* 📃 SOLID - The principle of OOD <http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod>
 * 📃 Principles of Lean Toyota Production System <https://flevy.com/blog/14-principles-of-lean-toyota-production-system-tps/>
 * 📃 Scrum vs Kanban vs Scrumban <https://eylean.com/scrum-vs-kanban-vs-scrumban/>
 * 📃 INVEST in Good Stories, and SMART Tasks <https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/>
