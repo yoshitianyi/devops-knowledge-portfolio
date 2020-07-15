@@ -53,11 +53,11 @@
 
 * 📃 GitLab Values <https://about.gitlab.com/handbook/values/>
 * 📗 Unicode Emoji <https://home.unicode.org/emoji/>
-* 🆔 Slack <https://slack.com/>
-* 🆔 Trello <https://trello.com/>
-* 🆔 Google Docs <https://www.google.com/docs/about/>
-* 🆔 Google Drive <https://www.google.com/drive/>
-* 🆔💲 Confluence <https://www.atlassian.com/software/confluence>
-* 🆔💲 JIRA <https://www.atlassian.com/software/jira>
-* 🆔 Teams <https://www.microsoft.com/en/microsoft-365/microsoft-teams/group-chat-software>
-* 🆔 Azure Boards <https://azure.microsoft.com/en-us/services/devops/boards/>
+* 🔺 Slack <https://slack.com/>
+* 🔺 Trello <https://trello.com/>
+* 🔺 Google Docs <https://www.google.com/docs/about/>
+* 🔺 Google Drive <https://www.google.com/drive/>
+* 🔺 Teams <https://www.microsoft.com/en/microsoft-365/microsoft-teams/group-chat-software>
+* 🔺 Azure Boards <https://azure.microsoft.com/en-us/services/devops/boards/>
+* 🔶 Confluence <https://www.atlassian.com/software/confluence>
+* 🔶 JIRA <https://www.atlassian.com/software/jira>
