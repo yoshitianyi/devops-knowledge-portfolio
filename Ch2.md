@@ -14,13 +14,12 @@
 * cron / logrotate / envsubst
 * zsh / oh-my-zsh
 
-## Windows
+## Windows as Client
 
-* Windows Server
 * WSL
 * Windows Terminal
 * Git for Windows (MINGW)
-* Windows CMD
+* TortoiseGit <https://tortoisegit.org/>
 * CIFS - Samba <https://www.samba.org/>
 * RDP - xrdp <http://xrdp.org/>
 
