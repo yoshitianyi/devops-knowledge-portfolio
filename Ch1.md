@@ -16,7 +16,7 @@
 * 📃 The twelve-factor app <https://12factor.net/>
 * 📃 Semantic Versioning <https://semver.org/>
 * 📃 keep a changelog <https://keepachangelog.com/>
-* 📃 Truck Based Development <https://trunkbaseddevelopment.com/>
+* 📙 Trunk Based Development <https://trunkbaseddevelopment.com/>
 * 📃 Principles of Lean Toyota Production System <https://flevy.com/blog/14-principles-of-lean-toyota-production-system-tps/>
 * 📃 Scrum vs Kanban vs Scrumban <https://eylean.com/scrum-vs-kanban-vs-scrumban/>
 * 📃 INVEST in Good Stories, and SMART Tasks <https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/>
@@ -25,8 +25,8 @@
 * 📃 The Zen of Python <https://www.python.org/dev/peps/pep-0020/>
 * 🎓 Representational state transfer <https://en.wikipedia.org/wiki/Representational_state_transfer>
 * 🎓 Unix Philosophy <https://en.wikipedia.org/wiki/Unix_philosophy>
-* 🎓 Acceptance Test-Driven Development <https://en.wikipedia.org/wiki/Acceptance_test%E2%80%93driven_development>
-* 🎓 Test-Driven Development <https://en.wikipedia.org/wiki/Test-driven_development>
+* 📙 Acceptance Test-Driven Development <https://en.wikipedia.org/wiki/Acceptance_test%E2%80%93driven_development>
+* 📙 Test-Driven Development <https://en.wikipedia.org/wiki/Test-driven_development>
 * 🎓 Functional Programming <https://en.wikipedia.org/wiki/Functional_programming>
 * 📙 Theory of Constraints <https://www.tocico.org/page/WhatisTOCoverview>
 * 📙 Toyota Production System <https://global.toyota/en/company/vision-and-philosophy/production-system/>
@@ -53,7 +53,8 @@
 * 🔺 Azure Boards <https://azure.microsoft.com/en-us/services/devops/boards/>
 * 🔶 Confluence <https://www.atlassian.com/software/confluence>
 * 🔶 JIRA <https://www.atlassian.com/software/jira>
-* 🎓 KJ Method <https://en.wikipedia.org/wiki/Affinity_diagram>
+* 📙 KJ Method <https://en.wikipedia.org/wiki/Affinity_diagram>
+* 📗 Creative Commons <https://creativecommons.org/>
 
 ## Culture
 
