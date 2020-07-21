@@ -4,9 +4,11 @@
 
 * JavaScript/ECMAScript <https://www.ecma-international.org/publications/standards/Ecma-262.htm>
   * Node.js <https://nodejs.org/en/>
-  * ExpressJS <https://expressjs.com/>
-  * Lodash <https://lodash.com/>
+  * Express <https://expressjs.com/>
   * React <https://reactjs.org/>
+  * Electron <https://www.electronjs.org/>
+  * Lodash <https://lodash.com/>
+  * Moment.js <https://momentjs.com/>
   * babel <https://babeljs.io/>
 * Typescript <https://www.typescriptlang.org/index.html>
 * Python <https://www.python.org/>
