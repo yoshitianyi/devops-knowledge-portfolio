@@ -2,17 +2,36 @@
 
 ## Unix / Linux
 
-* Processes, threads, environments and signals -- ps / top / htop / lsof
-* File system and permissions -- ls / ln / df / mount / chmod / mkfs
-* Users and groups -- adduser / sudo / chown
+* Processes, threads, environments and signals
+  * ps / top / lsof
+  * htop <https://hisham.hm/htop/>
+  * glances <https://nicolargo.github.io/glances/>
+* File system and permissions
+  * ls / ln / df / mount / chmod / mkfs
+* Users and groups
+  * adduser / sudo / chown
 * Unix domain socket and named pipe
-* Networking -- ifconfig / route / iptables / netstat
+* Networking
+  * ifconfig / route / iptables / netstat
 * Systemd <https://www.freedesktop.org/wiki/Software/systemd/>
 * D-Bus <https://www.freedesktop.org/wiki/Software/dbus/>
-* GNU bash / coreutils / diffutils / findutils / etc.
-* Regular Expressions -- awk / sed / grep / tr
-* cron / logrotate / envsubst
-* zsh / oh-my-zsh
+* Shell
+  * GNU bash <https://www.gnu.org/software/bash/>
+  * Zsh <https://www.zsh.org/>
+  * Oh My Zsh <https://ohmyz.sh/>
+  * fish-shell <https://fishshell.com/>
+* Utilities
+  * GNU coreutils <https://www.gnu.org/software/coreutils/>
+  * GNU findutils <https://www.gnu.org/software/findutils/>
+  * GNU diffutils <https://www.gnu.org/software/diffutils/>
+  * byobu <https://www.byobu.org/>
+  * starship <https://starship.rs/>
+  * ripgrep <https://github.com/BurntSushi/ripgrep>
+  * fzf <https://github.com/junegunn/fzf>
+  * fd <https://github.com/sharkdp/fd>
+  * colordiff <https://www.colordiff.org/>
+  * awk / sed / grep / tr
+  * cron / logrotate / envsubst
 
 ## Windows as Client
 
@@ -62,6 +81,7 @@
 ## Cloud Native
 
 * Docker <https://www.docker.com/>
+  * lazydocker <https://github.com/jesseduffield/lazydocker>
 * Kubernetes <https://kubernetes.io/>
   * Minikube <https://minikube.sigs.k8s.io/docs/>
   * Helm <https://helm.sh/>

@@ -10,10 +10,12 @@
   * Lodash <https://lodash.com/>
   * Moment.js <https://momentjs.com/>
   * babel <https://babeljs.io/>
+  * nodeenv <https://ekalinin.github.io/nodeenv/>
 * Typescript <https://www.typescriptlang.org/index.html>
 * Python <https://www.python.org/>
   * Django <https://www.djangoproject.com/>
   * Flask <https://www.palletsprojects.com/p/flask/>
+  * virtualenv <https://virtualenv.pypa.io/>
 * Ruby <https://www.ruby-lang.org/en/>
 * Go <https://golang.org/>
 * C++ <https://isocpp.org/>
