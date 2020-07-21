@@ -95,7 +95,6 @@
 * Markdown <https://tools.ietf.org/html/rfc7763>
 * Asciidoc <http://asciidoc.org/> / Asciidoctor <https://asciidoctor.org/>
 * Javadoc <https://docs.oracle.com/javase/9/javadoc/javadoc.htm>
-* RDoc <https://ruby.github.io/rdoc/>
 * apiDoc <http://apidocjs.com/>
 * JSDoc <https://jsdoc.app/>
 * Sphinx <http://www.sphinx-doc.org/en/master/>
