@@ -53,6 +53,7 @@
 * 🔺 Azure Boards <https://azure.microsoft.com/en-us/services/devops/boards/>
 * 🔶 Confluence <https://www.atlassian.com/software/confluence>
 * 🔶 JIRA <https://www.atlassian.com/software/jira>
+* 🔷 GitLab Issue Board <https://docs.gitlab.com/ee/user/project/issue_board.html>
 * 📙 KJ Method <https://en.wikipedia.org/wiki/Affinity_diagram>
 * 📗 Creative Commons <https://creativecommons.org/>
 
