@@ -58,6 +58,7 @@
 
 ## Culture
 
+* 📃 Amazon's Leadership Principles <https://www.amazon.jobs/en/principles>
 * 🎓 Psychological safety <https://en.wikipedia.org/wiki/Psychological_safety>
 * 🎓 Broken windows theory <https://en.wikipedia.org/wiki/Broken_windows_theory>
 * 🎓 Maslow’s Hierarchy of Needs
