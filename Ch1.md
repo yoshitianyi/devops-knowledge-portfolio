@@ -22,8 +22,10 @@
 * 📃 INVEST in Good Stories, and SMART Tasks <https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/>
 * 📃 Delegation Poker <https://management30.com/practice/delegation-poker/>
 * 📃 Microservices <https://martinfowler.com/articles/microservices.html>
+* 📃 The Reactive Manifesto <https://www.reactivemanifesto.org/>
 * 📃 The Zen of Python <https://www.python.org/dev/peps/pep-0020/>
 * 🎓 Representational state transfer <https://en.wikipedia.org/wiki/Representational_state_transfer>
+* 📃 Best Practices for Designing a Pragmatic RESTful API <https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api>
 * 🎓 Unix Philosophy <https://en.wikipedia.org/wiki/Unix_philosophy>
 * 📙 Acceptance Test-Driven Development <https://en.wikipedia.org/wiki/Acceptance_test%E2%80%93driven_development>
 * 📙 Test-Driven Development <https://en.wikipedia.org/wiki/Test-driven_development>
