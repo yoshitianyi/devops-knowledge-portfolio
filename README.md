@@ -28,3 +28,11 @@ Currently, this is just a personal memo and significant changes may be performed
 * 📃 Technique
 * 🎓 Academic Topic
 * 📕 Book
+
+## TODO List
+
+* Finish adding emojis
+* Restructure the categories
+* Link to related resources
+* Add the policy of selection
+* Add reasons of the recommendation
