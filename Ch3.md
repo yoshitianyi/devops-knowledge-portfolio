@@ -44,14 +44,12 @@
 * Debian package management (apt) <https://www.debian.org/>
 * fpm <https://fpm.readthedocs.io/>
 * yarn <https://yarnpkg.com/>
-* bower <https://bower.io/>
-* Flatpak <https://flatpak.org/>
+* Flatpak <https://flatpak.org/> and Flathub <https://flathub.org/home>
 * npm <https://www.npmjs.com/>
-* PyPI <https://pypi.org/> / pip <https://pip.pypa.io/>
+* pip <https://pip.pypa.io/> and PyPI <https://pypi.org/>
 * RubyGems <https://rubygems.org/>
 * bundler <https://bundler.io/>
 * snapcraft <https://snapcraft.io/>
-* Flathub <https://flathub.org/home>
 * homebrew <https://brew.sh/>
 * Sonartype Nexus RM3 <https://help.sonatype.com/repomanager3>
 * Azure Artifacts <https://azure.microsoft.com/en-us/services/devops/artifacts/>
