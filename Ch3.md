@@ -32,6 +32,7 @@
 * BFG Repo-Cleaner <https://rtyley.github.io/bfg-repo-cleaner/>
 * GitLab SCM <https://about.gitlab.com/>
 * GitHub <https://github.com/>
+* scc <https://github.com/boyter/scc/>
 * ESLint <https://eslint.org/>
 * Pylint <https://www.pylint.org/>
 * Prettier <https://prettier.io/>
