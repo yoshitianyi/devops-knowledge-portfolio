@@ -44,29 +44,3 @@
 * 📗 ISO/IEC 27001 (Information security standard) / ISMS
 * 📗 ISO/IEC/IEEE 42010 (Architecture description)
 * 📗 UML and UML metamodel <https://www.omg.org/spec/UML/About-UML/>
-
-## Communication and Sharing
-
-* 🔺 Slack <https://slack.com/>
-* 🔺 Trello <https://trello.com/>
-* 🔺 Google Docs <https://www.google.com/docs/about/>
-* 🔺 Google Drive <https://www.google.com/drive/>
-* 🔺 Teams <https://www.microsoft.com/en/microsoft-365/microsoft-teams/group-chat-software>
-* 🔺 Azure Boards <https://azure.microsoft.com/en-us/services/devops/boards/>
-* 🔶 Confluence <https://www.atlassian.com/software/confluence>
-* 🔶 JIRA <https://www.atlassian.com/software/jira>
-* 🔷 GitLab Issue Board <https://docs.gitlab.com/ee/user/project/issue_board.html>
-* 📙 KJ Method <https://en.wikipedia.org/wiki/Affinity_diagram>
-* 📗 Creative Commons <https://creativecommons.org/>
-
-## Culture
-
-* 📃 Amazon's Leadership Principles <https://www.amazon.jobs/en/principles>
-* 🎓 Psychological safety <https://en.wikipedia.org/wiki/Psychological_safety>
-* 🎓 Broken windows theory <https://en.wikipedia.org/wiki/Broken_windows_theory>
-* 🎓 Maslow’s Hierarchy of Needs
-* 📃 GitLab Values <https://about.gitlab.com/handbook/values/>
-* 📃 Ubuntu Code of Conduct <https://ubuntu.com/community/code-of-conduct>
-* 📃 Mozilla Community Participation Guidelines <https://www.mozilla.org/en-US/about/governance/policies/participation/>
-* 📗 Unicode Emoji <https://home.unicode.org/emoji/>
-* 🔷 FIGlet <http://www.figlet.org/>

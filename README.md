@@ -4,19 +4,19 @@ An opinionated knowledge list to build effective systems and teams with the CALM
 
 Currently, this is just a personal memo and significant changes may be performed.
 
-## Table of Contents
+## Old Table of Contents
 
 * [Software Fundementals](Ch1.md)
 * [Operational Knowledge](Ch2.md)
 * [Development Knowledge](Ch3.md)
 
-## Planned New Table of Contents
+## New Table of Contents (under migration)
 
-* Culture
-* Automation
-* Lean
-* Measurement
-* Sharing
+* [Culture](C.md)
+* [Automation](A.md)
+* [Lean](L.md)
+* [Measurement](M.md)
+* [Sharing](S.md)
 
 ## Legends
 
