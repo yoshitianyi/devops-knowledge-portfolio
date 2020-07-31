@@ -66,5 +66,7 @@
 * 🎓 Broken windows theory <https://en.wikipedia.org/wiki/Broken_windows_theory>
 * 🎓 Maslow’s Hierarchy of Needs
 * 📃 GitLab Values <https://about.gitlab.com/handbook/values/>
+* 📃 Ubuntu Code of Conduct <https://ubuntu.com/community/code-of-conduct>
+* 📃 Mozilla Community Participation Guidelines <https://www.mozilla.org/en-US/about/governance/policies/participation/>
 * 📗 Unicode Emoji <https://home.unicode.org/emoji/>
 * 🔷 FIGlet <http://www.figlet.org/>
