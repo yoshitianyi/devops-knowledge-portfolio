@@ -83,6 +83,7 @@
 * Docker <https://www.docker.com/>
   * overlayfs <https://www.kernel.org/doc/html/latest/filesystems/overlayfs.html>
   * lazydocker <https://github.com/jesseduffield/lazydocker>
+  * dive <https://github.com/wagoodman/dive>
 * Kubernetes <https://kubernetes.io/>
   * Minikube <https://minikube.sigs.k8s.io/docs/>
   * Helm <https://helm.sh/>
