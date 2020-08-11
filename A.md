@@ -2,8 +2,10 @@
 
 Restructuring is ongoing.
 
-## Unix / Linux
+## Operating System
 
+* Ubuntu <https://ubuntu.com/>
+* Windows Subsystem of Linux <https://docs.microsoft.com/en-us/windows/wsl/>
 * Processes, threads, environments and signals
   * ps / top / lsof
   * htop <https://hisham.hm/htop/>
@@ -34,15 +36,6 @@ Restructuring is ongoing.
   * colordiff <https://www.colordiff.org/>
   * awk / sed / grep / tr
   * cron / logrotate / envsubst
-
-## Windows as Client
-
-* WSL
-* Windows Terminal
-* Git for Windows (MINGW)
-* TortoiseGit <https://tortoisegit.org/>
-* CIFS - Samba <https://www.samba.org/>
-* RDP - xrdp <http://xrdp.org/>
 
 ## Internet Protocol Suite
 
@@ -180,6 +173,8 @@ Restructuring is ongoing.
 * Prettier <https://prettier.io/>
 * SonarQube <https://www.sonarqube.org/>
 * Azure Repos <https://azure.microsoft.com/en-us/services/devops/repos/>
+* Git for Windows (MINGW) <https://gitforwindows.org/>
+* TortoiseGit <https://tortoisegit.org/>
 
 ## Package Management and Registry
 
