@@ -218,40 +218,6 @@ Restructuring is ongoing.
 * XML <https://www.w3.org/XML/>
   * XPath <https://www.w3.org/TR/xpath-31/>
 
-## World Wide Web
-
-* URI / URL <https://tools.ietf.org/html/rfc3986>
-* HTTP / cookie <https://tools.ietf.org/html/rfc6265>
-* cURL command <https://curl.haxx.se/>
-* HTML <https://html.spec.whatwg.org/multipage/>
-* CSS <https://www.w3.org/Style/CSS/>
-* Sass <https://sass-lang.com/>
-* DOM <https://www.w3.org/DOM/DOMTR>
-* OpenAPI (Swagger) <https://swagger.io/docs/specification/about/>
-* WebSocket <https://tools.ietf.org/html/rfc6455>
-* gRPC <https://grpc.io/>
-
-## Documentation as Code
-
-* Markdown <https://tools.ietf.org/html/rfc7763>
-* Asciidoc <http://asciidoc.org/> / Asciidoctor <https://asciidoctor.org/>
-* Javadoc <https://docs.oracle.com/javase/9/javadoc/javadoc.htm>
-* apiDoc <http://apidocjs.com/>
-* JSDoc <https://jsdoc.app/>
-* Sphinx <http://www.sphinx-doc.org/en/master/>
-* Groff <https://www.gnu.org/software/groff/>
-* Docusaurus <https://docusaurus.io/>
-* VuePress <https://vuepress.vuejs.org/>
-
-## Diagramming as Code
-
-* Diagrams <https://diagrams.mingrammer.com/>
-* PlantUML <http://plantuml.com/>
-* Mermaid <https://mermaidjs.github.io/>
-* Vega <https://vega.github.io/vega/>
-* Vega-Lite <https://vega.github.io/vega-lite/>
-* Kroki <https://kroki.io/>
-
 ## Templating
 
 * Jinja2 <https://www.palletsprojects.com/p/jinja/>
