@@ -2,6 +2,19 @@
 
 Restructuring is ongoing.
 
+## Software design
+
+* 📃 Orthogonality and DRY principle <https://www.artima.com/intv/dry.html>
+* 📃 SOLID - The principle of OOD <http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod>
+* 📃 The twelve-factor app <https://12factor.net/>
+* 🎓 Representational state transfer <https://en.wikipedia.org/wiki/Representational_state_transfer>
+* 🎓 Unix Philosophy <https://en.wikipedia.org/wiki/Unix_philosophy>
+* 📃 The Zen of Python <https://www.python.org/dev/peps/pep-0020/>
+* 🎓 Functional Programming <https://en.wikipedia.org/wiki/Functional_programming>
+* 📃 Microservices <https://martinfowler.com/articles/microservices.html>
+* 📃 Refactoring <https://refactoring.com/>
+* 🎓 Design by Contract <https://en.wikipedia.org/wiki/Design_by_contract>
+
 ## Operating System
 
 * Ubuntu <https://ubuntu.com/>
@@ -24,6 +37,7 @@ Restructuring is ongoing.
   * Zsh <https://www.zsh.org/>
   * Oh My Zsh <https://ohmyz.sh/>
   * fish-shell <https://fishshell.com/>
+  * PowerShell <https://docs.microsoft.com/en-us/powershell/>
 * Utilities
   * GNU coreutils <https://www.gnu.org/software/coreutils/>
   * GNU findutils <https://www.gnu.org/software/findutils/>
@@ -67,7 +81,6 @@ Restructuring is ongoing.
 
 * AWS EC2/VPC and related services
 * Azure VM/VNet and related services
-* OpenStack <https://www.openstack.org/>
 * Hashicorp Packer <https://packer.io/>
 
 ## Cloud Native
@@ -154,29 +167,28 @@ Restructuring is ongoing.
 * Java <https://docs.oracle.com/en/java/index.html>
   * Spring <https://spring.io/>
 * Scala (for Gatling) <https://www.scala-lang.org/>
-* Groovy (in Jenkins) <http://groovy-lang.org/>
-* Bash <https://www.gnu.org/software/bash/>
-* PowerShell <https://docs.microsoft.com/en-us/powershell/>
+* Groovy (for Jenkins) <http://groovy-lang.org/>
 
-## Code Management and Registry
+## Source Code Management and Registry
 
 * Git <https://git-scm.com/>
 * BFG Repo-Cleaner <https://rtyley.github.io/bfg-repo-cleaner/>
 * GitLab SCM <https://about.gitlab.com/>
 * GitHub <https://github.com/>
-* Prettier <https://prettier.io/>
 * Azure Repos <https://azure.microsoft.com/en-us/services/devops/repos/>
 * Git for Windows (MINGW) <https://gitforwindows.org/>
 * TortoiseGit <https://tortoisegit.org/>
 
 ## Package Management and Registry
 
-* Debian package management (apt) <https://www.debian.org/>
+* Advanced Package Tool (APT) <https://en.wikipedia.org/wiki/APT_(software)>
 * fpm <https://fpm.readthedocs.io/>
 * yarn <https://yarnpkg.com/>
-* Flatpak <https://flatpak.org/> and Flathub <https://flathub.org/home>
+* Flatpak <https://flatpak.org/>
+* Flathub <https://flathub.org/home>
 * npm <https://www.npmjs.com/>
-* pip <https://pip.pypa.io/> and PyPI <https://pypi.org/>
+* pip <https://pip.pypa.io/>
+* PyPI <https://pypi.org/>
 * RubyGems <https://rubygems.org/>
 * bundler <https://bundler.io/>
 * snapcraft <https://snapcraft.io/>
@@ -208,6 +220,7 @@ Restructuring is ongoing.
 * Vim <https://www.vim.org/>
 * Notepad++ <https://notepad-plus-plus.org/>
 * EditorConfig <https://editorconfig.org/>
+* Prettier <https://prettier.io/>
 
 ## Web/App Servers
 
@@ -235,10 +248,7 @@ Restructuring is ongoing.
 * Gatling <https://gatling.io/>
 * Postman <https://www.getpostman.com/>
 * Karma <https://karma-runner.github.io>
-* RSpec <https://rspec.info/>
-* Python nose <https://nose.readthedocs.io/en/latest/>
 * JUnit <https://junit.org/junit5/>
-* Jasmine <https://jasmine.github.io/>
 * Cucumber <https://cucumber.io/>
 
 ## Scaffolding

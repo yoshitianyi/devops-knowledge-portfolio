@@ -2,6 +2,10 @@
 
 Restructuring is ongoing.
 
+## Reactive system
+
+* 📃 The Reactive Manifesto <https://www.reactivemanifesto.org/>
+
 ## Monitoring
 
 * 🔷 Promethus <https://prometheus.io/>

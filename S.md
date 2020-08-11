@@ -60,6 +60,7 @@ Restructuring is ongoing.
 
 * 📗 UML and UML metamodel <https://www.omg.org/spec/UML/About-UML/>
 * 📙 The C4 model <https://c4model.com/>
+* 📗 ISO/IEC/IEEE 42010 (Architecture description)
 
 ## Data exchange formats
 
