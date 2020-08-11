@@ -7,12 +7,6 @@ Restructuring is ongoing.
 * 🔺 Slack <https://slack.com/>
 * 🔺 Teams <https://www.microsoft.com/en/microsoft-365/microsoft-teams/group-chat-software>
 
-## Issue management
-
-* 🔶 JIRA <https://www.atlassian.com/software/jira>
-* 🔷 GitLab Issue Board <https://docs.gitlab.com/ee/user/project/issue_board.html>
-* 🔺 Azure Boards <https://azure.microsoft.com/en-us/services/devops/boards/>
-
 ## Idea management
 
 * 🔺 Trello <https://trello.com/>
@@ -56,6 +50,28 @@ Restructuring is ongoing.
 * 📗 OpenAPI (Swagger) <https://swagger.io/docs/specification/about/>
 * 🔷 cURL command <https://curl.haxx.se/>
 * 🔷 gRPC <https://grpc.io/>
+
+## Release notes
+
+* 📃 Semantic Versioning <https://semver.org/>
+* 📃 keep a changelog <https://keepachangelog.com/>
+
+## Design language
+
+* 📗 UML and UML metamodel <https://www.omg.org/spec/UML/About-UML/>
+* 📙 The C4 model <https://c4model.com/>
+
+## Data exchange formats
+
+* 📗 JSON <https://www.json.org/json-en.html>
+  * 📗 Hjson <https://hjson.org/>
+  * 📗 jsonc <https://komkom.github.io/>
+  * 📗 JMESPath <https://jmespath.org/>
+  * 🔷 jq <https://stedolan.github.io/jq/>
+* 📗 YAML <https://yaml.org/>
+* 📗 TOML <https://github.com/toml-lang/toml>
+* 📗 XML <https://www.w3.org/XML/>
+  * 📗 XPath <https://www.w3.org/TR/xpath-31/>
 
 ## Other references
 

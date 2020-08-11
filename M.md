@@ -12,6 +12,7 @@ Restructuring is ongoing.
 * 🔷 Logstash <https://www.elastic.co/logstash>
 * 🔷 Beats <https://www.elastic.co/beats/>
 * 🔷 Fluentd <https://www.fluentd.org/>
+* 📗 Syslog <https://tools.ietf.org/html/rfc5424>
 * 🔺 AWS CloudWatch <https://aws.amazon.com/cloudwatch/>
 * 🔺 Datadog <https://www.datadoghq.com/>
 * 🔺 Azure Monitor <https://docs.microsoft.com/en-us/azure/azure-monitor/overview>
@@ -22,3 +23,15 @@ Restructuring is ongoing.
 * 🔷 Kibana <https://www.elastic.co/kibana>
 * 🔷 Vega <https://vega.github.io/vega/>
 * 🔷 Vega-Lite <https://vega.github.io/vega-lite/>
+
+## Static code analyzer
+
+* 🔷 SonarQube <https://www.sonarqube.org/>
+* 🔷 scc <https://github.com/boyter/scc/>
+* 🔷 ESLint <https://eslint.org/>
+* 🔷 Pylint <https://www.pylint.org/>
+
+## Network debugger
+
+* 🔷 tcpdump <https://www.tcpdump.org/>
+* 🔷 Wireshark <https://www.wireshark.org/>

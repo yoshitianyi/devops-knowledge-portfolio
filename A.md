@@ -44,11 +44,8 @@ Restructuring is ongoing.
 * FTP / SMTP / DNS / DHCP / LDAP
 * RabbitMQ / MQTT / AMQP
 * Email <https://tools.ietf.org/html/rfc5322>
-* Syslog <https://tools.ietf.org/html/rfc5424>
 * chrony <https://chrony.tuxfamily.org/>
 * BIND <https://www.isc.org/bind/> -- dig
-* tcpdump <https://www.tcpdump.org/>
-* Wireshark <https://www.wireshark.org/>
 
 ## Security
 
@@ -167,11 +164,7 @@ Restructuring is ongoing.
 * BFG Repo-Cleaner <https://rtyley.github.io/bfg-repo-cleaner/>
 * GitLab SCM <https://about.gitlab.com/>
 * GitHub <https://github.com/>
-* scc <https://github.com/boyter/scc/>
-* ESLint <https://eslint.org/>
-* Pylint <https://www.pylint.org/>
 * Prettier <https://prettier.io/>
-* SonarQube <https://www.sonarqube.org/>
 * Azure Repos <https://azure.microsoft.com/en-us/services/devops/repos/>
 * Git for Windows (MINGW) <https://gitforwindows.org/>
 * TortoiseGit <https://tortoisegit.org/>
@@ -200,18 +193,6 @@ Restructuring is ongoing.
 * Gradle <https://gradle.org/>
 * Grunt <https://gruntjs.com/>
 * gulp <https://gulpjs.com/>
-
-## Data Exchange Formats
-
-* JSON <https://www.json.org/json-en.html>
-  * Hjson <https://hjson.org/>
-  * jsonc <https://komkom.github.io/>
-  * JMESPath <https://jmespath.org/>
-  * jq <https://stedolan.github.io/jq/>
-* YAML <https://yaml.org/>
-* TOML <https://github.com/toml-lang/toml>
-* XML <https://www.w3.org/XML/>
-  * XPath <https://www.w3.org/TR/xpath-31/>
 
 ## Templating
 
