@@ -1,8 +1,8 @@
-# DevOps Knowledge Notes
+# CALMS-oriented DevOps Resource Links
 
-An opinionated knowledge list to build effective systems and teams with the CALMS mindset.
+An opinionated curated list to build effective **systems and teams**.
 
-Currently, this is just a personal memo and significant changes may be performed.
+Currently, this is just a personal note and significant changes may be performed.
 
 ## Old Table of Contents
 
@@ -32,7 +32,6 @@ Currently, this is just a personal memo and significant changes may be performed
 ## TODO List
 
 * Finish adding emojis
-* Restructure the categories
-* Link to related resources
-* Add the policy of selection
+* Finish restructuring the categories
+* Specify the policy of selection
 * Add reasons of the recommendation
