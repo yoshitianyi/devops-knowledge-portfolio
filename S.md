@@ -1,5 +1,12 @@
 # Sharing
 
+Restructuring is ongoing.
+
+## Remote working
+
+* 🔺 Slack <https://slack.com/>
+* 🔺 Teams <https://www.microsoft.com/en/microsoft-365/microsoft-teams/group-chat-software>
+
 ## Issue management
 
 * 🔶 JIRA <https://www.atlassian.com/software/jira>

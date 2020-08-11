@@ -4,13 +4,7 @@ An opinionated curated list to build effective **systems and teams**.
 
 Currently, this is just a personal note and significant changes may be performed.
 
-## Old Table of Contents
-
-* [Software Fundementals](Ch1.md)
-* [Operational Knowledge](Ch2.md)
-* [Development Knowledge](Ch3.md)
-
-## New Table of Contents (under migration)
+## Table of Contents
 
 * [Culture](C.md)
 * [Automation](A.md)
