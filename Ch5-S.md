@@ -74,6 +74,10 @@ Restructuring is ongoing.
 * 📗 XML <https://www.w3.org/XML/>
   * 📗 XPath <https://www.w3.org/TR/xpath-31/>
 
+## Common schema
+
+* 📗 Elastic Common Schema <https://www.elastic.co/guide/en/ecs/current/index.html>
+
 ## Other references
 
 * 📗 Creative Commons <https://creativecommons.org/>
