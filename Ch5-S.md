@@ -45,10 +45,10 @@ Restructuring is ongoing.
 * 📗 WebSocket <https://tools.ietf.org/html/rfc6455>
 * 📗 HTML <https://html.spec.whatwg.org/multipage/>
 * 📗 CSS <https://www.w3.org/Style/CSS/>
-* 📗 Sass <https://sass-lang.com/>
 * 📗 DOM <https://www.w3.org/DOM/DOMTR>
 * 📗 OpenAPI (Swagger) <https://swagger.io/docs/specification/about/>
-* 🔷 cURL command <https://curl.haxx.se/>
+* 🔷 Sass <https://sass-lang.com/>
+* 🔷 cURL <https://curl.haxx.se/>
 * 🔷 gRPC <https://grpc.io/>
 
 ## Release notes
