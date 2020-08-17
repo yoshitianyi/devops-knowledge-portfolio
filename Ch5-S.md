@@ -58,17 +58,17 @@ Restructuring is ongoing.
 
 ## Design language
 
-* 📗 UML and UML metamodel <https://www.omg.org/spec/UML/About-UML/>
+* 📗 UML <https://www.omg.org/spec/UML/About-UML/>
 * 📙 The C4 model <https://c4model.com/>
 * 📗 ISO/IEC/IEEE 42010 (Architecture description)
 
 ## Data exchange formats
 
 * 📗 JSON <https://www.json.org/json-en.html>
-  * 📗 Hjson <https://hjson.org/>
-  * 📗 jsonc <https://komkom.github.io/>
   * 📗 JMESPath <https://jmespath.org/>
   * 🔷 jq <https://stedolan.github.io/jq/>
+  * 🔷 Hjson <https://hjson.org/>
+  * 🔷 jsonc <https://komkom.github.io/>
 * 📗 YAML <https://yaml.org/>
 * 📗 TOML <https://github.com/toml-lang/toml>
 * 📗 XML <https://www.w3.org/XML/>
