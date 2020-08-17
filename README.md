@@ -6,11 +6,11 @@ Currently, this is just a personal note and significant changes may be performed
 
 ## Table of Contents
 
-* [Culture](C.md)
-* [Automation](A.md)
-* [Lean](L.md)
-* [Measurement](M.md)
-* [Sharing](S.md)
+* [Culture](Ch1-C.md)
+* [Automation](Ch2-A.md)
+* [Lean](Ch3-L.md)
+* [Measurement](Ch4-M.md)
+* [Sharing](Ch5-S.md)
 
 ## Legends
 
