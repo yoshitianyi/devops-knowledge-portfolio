@@ -1,6 +1,6 @@
-# CALMS-oriented DevOps Resource Links
+# DevOps Knowledge Portfolio
 
-An opinionated curated list to build effective **systems and teams**.
+An opinionated knowledge and skill list to build effective **systems and teams**.
 
 Currently, this is just a personal note and significant changes may be performed.
 
@@ -26,6 +26,7 @@ Currently, this is just a personal note and significant changes may be performed
 ## TODO List
 
 * Finish adding emojis
-* Finish restructuring the categories
+* Add reference resource links
+* Re-restructure the categories
 * Specify the policy of selection
-* Add reasons of the recommendation
+* Add reasons of the importance of each item
