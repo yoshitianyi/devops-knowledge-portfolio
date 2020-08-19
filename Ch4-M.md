@@ -5,6 +5,8 @@ Restructuring is ongoing.
 ## Reactive system
 
 * 📃 The Reactive Manifesto <https://www.reactivemanifesto.org/>
+* 📃 Site Reliability Engineering <https://landing.google.com/sre/>
+* 📃 Engineering Productivity <https://landing.google.com/engprod/>
 
 ## Monitoring
 
