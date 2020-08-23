@@ -40,15 +40,26 @@ Restructuring is ongoing.
 
 ## World Wide Web
 
+* 🔷 Google Chrome <https://www.google.com/chrome/>
+* 🔷 Mozilla Firefox <https://www.mozilla.org/en-US/firefox/>
+* 🔷 Chromium <https://www.chromium.org/>
 * 📗 URI / URL <https://tools.ietf.org/html/rfc3986>
 * 📗 HTTP / cookie <https://tools.ietf.org/html/rfc6265>
-* 📗 WebSocket <https://tools.ietf.org/html/rfc6455>
 * 📗 HTML <https://html.spec.whatwg.org/multipage/>
 * 📗 CSS <https://www.w3.org/Style/CSS/>
 * 📗 DOM <https://www.w3.org/DOM/DOMTR>
 * 📗 OpenAPI (Swagger) <https://swagger.io/docs/specification/about/>
 * 🔷 Sass <https://sass-lang.com/>
 * 🔷 cURL <https://curl.haxx.se/>
+* 🔷 GNU Wget <https://www.gnu.org/software/wget/>
+
+## Application communication
+
+* 📗 Email <https://tools.ietf.org/html/rfc5322>
+* 🔷 Postfix <http://www.postfix.org/>
+* 📗 MQTT / AMQP
+* 🔷 RabbitMQ <https://www.rabbitmq.com/>
+* 📗 WebSocket <https://tools.ietf.org/html/rfc6455>
 * 🔷 gRPC <https://grpc.io/>
 
 ## Release notes

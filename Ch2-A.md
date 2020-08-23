@@ -14,8 +14,9 @@ Restructuring is ongoing.
 * 📃 Microservices <https://martinfowler.com/articles/microservices.html>
 * 📃 Refactoring <https://refactoring.com/>
 * 🎓 Design by Contract <https://en.wikipedia.org/wiki/Design_by_contract>
+* 📃 PHP - The Wrong Way <https://phpthewrongway.com/>
 
-## Operating System
+## UNIX and IP Network
 
 * Ubuntu <https://ubuntu.com/>
 * Windows Subsystem of Linux <https://docs.microsoft.com/en-us/windows/wsl/>
@@ -29,6 +30,11 @@ Restructuring is ongoing.
   * adduser / sudo / chown
 * Unix domain socket and named pipe
 * Networking
+  * The OSI Model <https://en.wikipedia.org/wiki/OSI_model>
+  * TCP / UDP / ICMP / IPv4 / IPv6 / ARP / NTP
+  * FTP / SMTP / DNS / DHCP / LDAP
+  * chrony <https://chrony.tuxfamily.org/>
+  * BIND <https://www.isc.org/bind/> -- dig
   * ifconfig / route / iptables / netstat
 * Systemd <https://www.freedesktop.org/wiki/Software/systemd/>
 * D-Bus <https://www.freedesktop.org/wiki/Software/dbus/>
@@ -50,16 +56,6 @@ Restructuring is ongoing.
   * colordiff <https://www.colordiff.org/>
   * awk / sed / grep / tr
   * cron / logrotate / envsubst
-
-## Internet Protocol Suite
-
-* The OSI Model <https://en.wikipedia.org/wiki/OSI_model>
-* TCP / UDP / ICMP / IPv4 / IPv6 / ARP / NTP
-* FTP / SMTP / DNS / DHCP / LDAP
-* RabbitMQ / MQTT / AMQP
-* Email <https://tools.ietf.org/html/rfc5322>
-* chrony <https://chrony.tuxfamily.org/>
-* BIND <https://www.isc.org/bind/> -- dig
 
 ## Security
 
@@ -163,6 +159,7 @@ Restructuring is ongoing.
   * virtualenv <https://virtualenv.pypa.io/>
 * Ruby <https://www.ruby-lang.org/en/>
 * Go <https://golang.org/>
+* Rust <https://www.rust-lang.org/>
 * C++ <https://isocpp.org/>
 * Java <https://docs.oracle.com/en/java/index.html>
   * Spring <https://spring.io/>
@@ -200,7 +197,6 @@ Restructuring is ongoing.
 
 * Make <https://www.gnu.org/software/make/>
 * Rake <https://ruby.github.io/rake/>
-* Ant <https://ant.apache.org/>
 * Maven <https://maven.apache.org/>
 * Gradle <https://gradle.org/>
 * Grunt <https://gruntjs.com/>

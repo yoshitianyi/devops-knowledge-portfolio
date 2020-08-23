@@ -15,6 +15,9 @@ Restructuring is ongoing.
 * 📙 Scrum <https://www.scrum.org/>
 * 📙 Extreme Programming <http://www.extremeprogramming.org/>
 * 📙 Trunk Based Development <https://trunkbaseddevelopment.com/>
+* 📃 Feature Toggles <https://www.martinfowler.com/articles/feature-toggles.html>
+  * Canary releasing <https://martinfowler.com/bliki/CanaryRelease.html>
+  * A/B testing <https://en.wikipedia.org/wiki/A/B_testing>
 
 ## Kanban-style issue management
 
