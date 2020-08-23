@@ -2,6 +2,8 @@
 
 Restructuring is ongoing.
 
+Ubuntu and Node.js are the core platform technologies.
+
 ## Software design
 
 * 📃 Orthogonality and DRY principle <https://www.artima.com/intv/dry.html>
@@ -16,10 +18,9 @@ Restructuring is ongoing.
 * 🎓 Design by Contract <https://en.wikipedia.org/wiki/Design_by_contract>
 * 📃 PHP - The Wrong Way <https://phpthewrongway.com/>
 
-## UNIX and IP Network
+## Linux server core
 
 * Ubuntu <https://ubuntu.com/>
-* Windows Subsystem of Linux <https://docs.microsoft.com/en-us/windows/wsl/>
 * Processes, threads, environments and signals
   * ps / top / lsof
   * htop <https://hisham.hm/htop/>
@@ -56,6 +57,13 @@ Restructuring is ongoing.
   * colordiff <https://www.colordiff.org/>
   * awk / sed / grep / tr
   * cron / logrotate / envsubst
+
+## Desktop environment
+
+* X Windows System <https://www.x.org/wiki/>
+* Wayland <https://wayland.freedesktop.org/>
+* GNOME Shell <https://wiki.gnome.org/Projects/GnomeShell>
+* Ubuntu Budgie <https://ubuntubudgie.org/>
 
 ## Security
 
