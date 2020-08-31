@@ -63,7 +63,7 @@ Ubuntu and Node.js are the core platform technologies.
 
 ## Desktop environment
 
-* X Windows System <https://www.x.org/wiki/>
+* X Window System <https://www.x.org/wiki/>
 * Wayland <https://wayland.freedesktop.org/>
 * GNOME Shell <https://wiki.gnome.org/Projects/GnomeShell>
 * Ubuntu Budgie <https://ubuntubudgie.org/>
