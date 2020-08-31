@@ -21,24 +21,27 @@ Ubuntu and Node.js are the core platform technologies.
 ## Linux server core
 
 * Ubuntu <https://ubuntu.com/>
-* Processes, threads, environments and signals
-  * ps / top / lsof
+* Systemd <https://www.freedesktop.org/wiki/Software/systemd/>
+* D-Bus <https://www.freedesktop.org/wiki/Software/dbus/>
+* Processes
+  * procps <https://gitlab.com/procps-ng/procps>
+  * lsof <https://github.com/lsof-org/lsof>
   * htop <https://hisham.hm/htop/>
   * glances <https://nicolargo.github.io/glances/>
-* File system and permissions
+* File system
   * ls / ln / df / mount / chmod / mkfs
+  * Unix domain socket and named pipe
 * Users and groups
   * adduser / sudo / chown
-* Unix domain socket and named pipe
 * Networking
   * The OSI Model <https://en.wikipedia.org/wiki/OSI_model>
   * TCP / UDP / ICMP / IPv4 / IPv6 / ARP / NTP
   * FTP / SMTP / DNS / DHCP / LDAP
+  * ifconfig / route / iptables / netstat
   * chrony <https://chrony.tuxfamily.org/>
   * BIND <https://www.isc.org/bind/> -- dig
-  * ifconfig / route / iptables / netstat
-* Systemd <https://www.freedesktop.org/wiki/Software/systemd/>
-* D-Bus <https://www.freedesktop.org/wiki/Software/dbus/>
+  * Tcpdump <https://www.tcpdump.org/>
+  * Wireshark <https://www.wireshark.org/>
 * Shell
   * GNU bash <https://www.gnu.org/software/bash/>
   * Zsh <https://www.zsh.org/>

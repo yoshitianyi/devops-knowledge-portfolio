@@ -36,8 +36,3 @@ Restructuring is ongoing.
 * 🔷 scc <https://github.com/boyter/scc/>
 * 🔷 ESLint <https://eslint.org/>
 * 🔷 Pylint <https://www.pylint.org/>
-
-## Network debugger
-
-* 🔷 tcpdump <https://www.tcpdump.org/>
-* 🔷 Wireshark <https://www.wireshark.org/>
