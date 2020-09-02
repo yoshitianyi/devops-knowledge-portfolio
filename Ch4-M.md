@@ -18,6 +18,7 @@ Restructuring is ongoing.
 * 🔷 Logstash <https://www.elastic.co/logstash>
 * 🔷 Beats <https://www.elastic.co/beats/>
 * 🔷 Fluentd <https://www.fluentd.org/>
+* 🔷 sysstat <https://github.com/sysstat/sysstat>
 * 📗 Syslog <https://tools.ietf.org/html/rfc5424>
 * 🔺 AWS CloudWatch <https://aws.amazon.com/cloudwatch/>
 * 🔺 Datadog <https://www.datadoghq.com/>

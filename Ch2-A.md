@@ -37,7 +37,8 @@ Ubuntu and Node.js are the core platform technologies.
   * The OSI Model <https://en.wikipedia.org/wiki/OSI_model>
   * TCP / UDP / ICMP / IPv4 / IPv6 / ARP / NTP
   * FTP / SMTP / DNS / DHCP / LDAP
-  * ifconfig / route / iptables / netstat
+  * net-tools <https://sourceforge.net/projects/net-tools/>
+  * netfilter <https://www.netfilter.org/index.html>
   * chrony <https://chrony.tuxfamily.org/>
   * BIND <https://www.isc.org/bind/> -- dig
   * Tcpdump <https://www.tcpdump.org/>
