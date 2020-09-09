@@ -8,7 +8,7 @@ Restructuring is ongoing.
 * 📃 Site Reliability Engineering <https://landing.google.com/sre/>
 * 📃 Engineering Productivity <https://landing.google.com/engprod/>
 
-## Monitoring
+## Data collection and storage
 
 * 🔷 Promethus <https://prometheus.io/>
 * 🔷 Loki <https://grafana.com/oss/loki/>
@@ -20,16 +20,17 @@ Restructuring is ongoing.
 * 🔷 Fluentd <https://www.fluentd.org/>
 * 🔷 sysstat <https://github.com/sysstat/sysstat>
 * 📗 Syslog <https://tools.ietf.org/html/rfc5424>
-* 🔺 AWS CloudWatch <https://aws.amazon.com/cloudwatch/>
-* 🔺 Datadog <https://www.datadoghq.com/>
-* 🔺 Azure Monitor <https://docs.microsoft.com/en-us/azure/azure-monitor/overview>
+* 🔷 OpenTelemetry <https://opentelemetry.io/>
 
-## Visualization
+## Observability
 
 * 🔷 Grafana <https://grafana.com/>
 * 🔷 Kibana <https://www.elastic.co/kibana>
 * 🔷 Vega <https://vega.github.io/vega/>
 * 🔷 Vega-Lite <https://vega.github.io/vega-lite/>
+* 🔺 AWS CloudWatch <https://aws.amazon.com/cloudwatch/>
+* 🔺 Datadog <https://www.datadoghq.com/>
+* 🔺 Azure Monitor <https://docs.microsoft.com/en-us/azure/azure-monitor/overview>
 
 ## Static code analyzer
 
