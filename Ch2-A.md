@@ -113,6 +113,7 @@ Ubuntu and Node.js are the core platform technologies.
 * Helm Hub <https://hub.helm.sh/>
 * Amazon ECR <https://aws.amazon.com/ecr/>
 * Azure Container Registry <https://azure.microsoft.com/en-us/services/container-registry/>
+* ChartMuseum <https://chartmuseum.com/>
 * Sonartype Nexus RM3 <https://help.sonatype.com/repomanager3>
 
 ## Serverless
