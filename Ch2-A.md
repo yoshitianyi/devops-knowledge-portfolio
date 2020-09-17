@@ -263,10 +263,6 @@ Ubuntu and Node.js are the core platform technologies.
 
 * Yeoman <https://yeoman.io/>
 
-## Development VM Builder
-
-* Hashicorp Vagrant <https://www.vagrantup.com/>
-
 ## Identity Management
 
 * Auth0 <https://auth0.com/>
