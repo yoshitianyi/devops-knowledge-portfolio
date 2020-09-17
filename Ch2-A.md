@@ -178,6 +178,13 @@ Ubuntu and Node.js are the core platform technologies.
 * Scala (for Gatling) <https://www.scala-lang.org/>
 * Groovy (for Jenkins) <http://groovy-lang.org/>
 
+## Programming and Test Practices
+
+* Project Guidelines <https://github.com/elsewhencode/project-guidelines>
+* Node,js Best Practices <https://github.com/goldbergyoni/nodebestpractices>
+* JS Testing Best Practices <https://github.com/goldbergyoni/javascript-testing-best-practices>
+* 33 JS Concepts <https://github.com/leonardomso/33-js-concepts>
+
 ## Source Code Management and Registry
 
 * Git <https://git-scm.com/>
