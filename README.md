@@ -1,16 +1,18 @@
 # DevOps Knowledge Portfolio
 
 An opinionated knowledge and skill list to build effective **systems and teams**.
-
 Currently, this is just a personal note and significant changes may be performed.
+
+## Selection Policies
+
+* Use OSS in priority
+* Use Ubuntu and Node.js as the core platform technologies
 
 ## Table of Contents
 
-* [Culture](Ch1-C.md)
-* [Automation](Ch2-A.md)
-* [Lean](Ch3-L.md)
-* [Measurement](Ch4-M.md)
-* [Sharing](Ch5-S.md)
+* [Architecture Aspect](Ch1.md)
+* [Development Aspect](Ch2.md)
+* [Operations Aspect](Ch3.md)
 
 ## Legends
 
