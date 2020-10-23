@@ -22,6 +22,7 @@
   * Node.js <https://nodejs.org/en/>
   * Express <https://expressjs.com/>
   * React <https://reactjs.org/>
+  * Next.js <https://nextjs.org/>
   * Electron <https://www.electronjs.org/>
   * Lodash <https://lodash.com/>
   * Moment.js <https://momentjs.com/>
@@ -30,14 +31,14 @@
 * Typescript <https://www.typescriptlang.org/index.html>
 * Python <https://www.python.org/>
   * Django <https://www.djangoproject.com/>
-  * Flask <https://www.palletsprojects.com/p/flask/>
+  * Flask <https://www.palletsprojects.com/p/flask/> (reference)
   * virtualenv <https://virtualenv.pypa.io/>
 * Ruby <https://www.ruby-lang.org/en/>
 * Go <https://golang.org/>
 * Rust <https://www.rust-lang.org/>
 * C++ <https://isocpp.org/>
 * Java <https://docs.oracle.com/en/java/index.html>
-  * Spring <https://spring.io/>
+  * Spring <https://spring.io/> (reference)
 * Scala (for Gatling) <https://www.scala-lang.org/>
 * Groovy (for Jenkins) <http://groovy-lang.org/>
 
@@ -124,14 +125,14 @@
 * Gatling <https://gatling.io/>
 * Postman <https://www.getpostman.com/>
 * Karma <https://karma-runner.github.io>
-* JUnit <https://junit.org/junit5/>
+* JUnit <https://junit.org/junit5/> (reference)
+* RSpec <https://rspec.info/> (reference)
 * Cucumber <https://cucumber.io/>
 
 ## World Wide Web
 
 * 🔷 Google Chrome <https://www.google.com/chrome/>
 * 🔷 Mozilla Firefox <https://www.mozilla.org/en-US/firefox/>
-* 🔷 Chromium <https://www.chromium.org/>
 * 📗 URI / URL <https://tools.ietf.org/html/rfc3986>
 * 📗 HTTP / cookie <https://tools.ietf.org/html/rfc6265>
 * 📗 HTML <https://html.spec.whatwg.org/multipage/>
