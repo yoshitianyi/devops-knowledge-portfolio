@@ -1,20 +1,22 @@
 # Development Aspect
 
-## Desktop environment
+## Development environment
 
-* X Window System <https://www.x.org/wiki/>
-* Wayland <https://wayland.freedesktop.org/>
-* GNOME Shell <https://wiki.gnome.org/Projects/GnomeShell>
-* Ubuntu Budgie <https://ubuntubudgie.org/>
-
-## IDEs and Editors
-
+* Windows 10 <https://www.microsoft.com/en-us/windows/>
+  * WSL 2 <https://docs.microsoft.com/en-us/windows/wsl/>
+  * Windows Terminal <https://docs.microsoft.com/en-us/windows/terminal/>
+* Docker Desktop for Windows <https://hub.docker.com/editions/community/docker-ce-desktop-windows/>
+* Git for Windows (MINGW) <https://gitforwindows.org/>
+* TortoiseGit <https://tortoisegit.org/>
 * VS Code <https://code.visualstudio.com/>
 * Chrome Dev Tools <https://developers.google.com/web/tools/chrome-devtools/>
 * Vim <https://www.vim.org/>
 * Notepad++ <https://notepad-plus-plus.org/>
-* EditorConfig <https://editorconfig.org/>
-* Prettier <https://prettier.io/>
+* Ubuntu Desktop <https://ubuntu.com/>
+  * X Window System <https://www.x.org/wiki/>
+  * Wayland <https://wayland.freedesktop.org/>
+  * GNOME 3 Desktop Environment <https://www.gnome.org/>
+  * Mutter Window Manager <https://gitlab.gnome.org/GNOME/mutter>
 
 ## Programming Languages and Frameworks
 
@@ -56,8 +58,8 @@
 * GitLab SCM <https://about.gitlab.com/>
 * GitHub <https://github.com/>
 * Azure Repos <https://azure.microsoft.com/en-us/services/devops/repos/>
-* Git for Windows (MINGW) <https://gitforwindows.org/>
-* TortoiseGit <https://tortoisegit.org/>
+* EditorConfig <https://editorconfig.org/>
+* Prettier <https://prettier.io/>
 
 ## Package Management and Registry
 
