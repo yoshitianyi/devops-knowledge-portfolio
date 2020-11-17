@@ -33,6 +33,8 @@
   * colordiff <https://www.colordiff.org/>
   * awk / sed / grep / tr
   * cron / logrotate / envsubst
+* Virtual Display
+  * xvfb
 
 ## TCP/IP network
 
