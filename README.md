@@ -16,18 +16,10 @@ Currently, this is just a personal note and significant changes may be performed
 
 ## Legends
 
-* 🔺 Cloud Service
-* 🔶 Software (Product)
-* 🔷 Software (OSS or Free)
-* 📗 Standard/Spec
-* 📙 Methodology
-* 📃 Technique
-* 🎓 Academic Topic
-* 📕 Book
+* 🔺 = Cloud Service or Server Product
 
 ## TODO List
 
-* Finish adding emojis
 * Add reference resource links
 * Re-restructure the categories
 * Specify the policy of selection

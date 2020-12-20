@@ -56,8 +56,8 @@
 * Git <https://git-scm.com/>
 * BFG Repo-Cleaner <https://rtyley.github.io/bfg-repo-cleaner/>
 * GitLab SCM <https://about.gitlab.com/>
-* GitHub <https://github.com/>
-* Azure Repos <https://azure.microsoft.com/en-us/services/devops/repos/>
+* 🔺 GitHub <https://github.com/>
+* 🔺 Azure Repos <https://azure.microsoft.com/en-us/services/devops/repos/>
 * EditorConfig <https://editorconfig.org/>
 * Prettier <https://prettier.io/>
 
@@ -67,16 +67,16 @@
 * fpm <https://fpm.readthedocs.io/>
 * yarn <https://yarnpkg.com/>
 * Flatpak <https://flatpak.org/>
-* Flathub <https://flathub.org/home>
-* npm <https://www.npmjs.com/>
+* 🔺 Flathub <https://flathub.org/home>
+* 🔺 npm <https://www.npmjs.com/>
 * pip <https://pip.pypa.io/>
-* PyPI <https://pypi.org/>
-* RubyGems <https://rubygems.org/>
+* 🔺 PyPI <https://pypi.org/>
+* 🔺 RubyGems <https://rubygems.org/>
 * bundler <https://bundler.io/>
 * snapcraft <https://snapcraft.io/>
-* homebrew <https://brew.sh/>
+* 🔺 homebrew <https://brew.sh/>
 * Sonartype Nexus RM3 <https://help.sonatype.com/repomanager3>
-* Azure Artifacts <https://azure.microsoft.com/en-us/services/devops/artifacts/>
+* 🔺 Azure Artifacts <https://azure.microsoft.com/en-us/services/devops/artifacts/>
 
 ## Build Tools
 
@@ -86,6 +86,10 @@
 * Gradle <https://gradle.org/>
 * Grunt <https://gruntjs.com/>
 * gulp <https://gulpjs.com/>
+
+## Scaffolding
+
+* YO <https://yeoman.io/>
 
 ## Templating
 
@@ -107,18 +111,19 @@
 * MongoDB <https://www.mongodb.com/>
 * Redis <https://redis.io/>
 * Postgresql <https://www.postgresql.org/> / pgAdmin / pgBadger
-* MySQL <https://www.mysql.com/>
+* SQLite <https://www.sqlite.org/index.html>
 
 ## Static code analyzer
 
-* 🔷 SonarQube <https://www.sonarqube.org/>
-* 🔷 scc <https://github.com/boyter/scc/>
-* 🔷 ESLint <https://eslint.org/>
-* 🔷 Pylint <https://www.pylint.org/>
+* SonarQube <https://www.sonarqube.org/>
+* scc <https://github.com/boyter/scc/>
+* ESLint <https://eslint.org/>
+* Pylint <https://www.pylint.org/>
 
 ## Test Tools and Frameworks
 
-* Mocha <https://mochajs.org/> and Chai <https://www.chaijs.com/>
+* Mocha <https://mochajs.org/>
+* Chai <https://www.chaijs.com/>
 * Jest <https://jestjs.io/>
 * Protractor <https://www.protractortest.org/#/>
 * Selenium WebDriver <https://selenium.dev/documentation/en/webdriver/>
@@ -133,43 +138,32 @@
 
 ## World Wide Web
 
-* 🔷 Google Chrome <https://www.google.com/chrome/>
-* 🔷 Mozilla Firefox <https://www.mozilla.org/en-US/firefox/>
-* 📗 URI / URL <https://tools.ietf.org/html/rfc3986>
-* 📗 HTTP / cookie <https://tools.ietf.org/html/rfc6265>
-* 📗 HTML <https://html.spec.whatwg.org/multipage/>
-* 📗 CSS <https://www.w3.org/Style/CSS/>
-* 📗 DOM <https://www.w3.org/DOM/DOMTR>
-* 📗 OpenAPI (Swagger) <https://swagger.io/docs/specification/about/>
-* 📗 CORS (Cross-Origin Resource Sharing) <https://www.w3.org/TR/cors/>
-* 🔷 Sass <https://sass-lang.com/>
-* 🔷 cURL <https://curl.haxx.se/>
-* 🔷 GNU Wget <https://www.gnu.org/software/wget/>
-
-## Application communication
-
-* 📗 MQTT / AMQP
-* 🔷 RabbitMQ <https://www.rabbitmq.com/>
-* 📗 WebSocket <https://tools.ietf.org/html/rfc6455>
-* 🔷 gRPC <https://grpc.io/>
+* Google Chrome <https://www.google.com/chrome/>
+* Mozilla Firefox <https://www.mozilla.org/en-US/firefox/>
+* URI / URL <https://tools.ietf.org/html/rfc3986>
+* HTTP / cookie <https://tools.ietf.org/html/rfc6265>
+* HTML <https://html.spec.whatwg.org/multipage/>
+* CSS <https://www.w3.org/Style/CSS/>
+* DOM <https://www.w3.org/DOM/DOMTR>
+* OpenAPI (Swagger) <https://swagger.io/docs/specification/about/>
+* CORS (Cross-Origin Resource Sharing) <https://www.w3.org/TR/cors/>
+* Sass <https://sass-lang.com/>
+* cURL <https://curl.haxx.se/>
+* GNU Wget <https://www.gnu.org/software/wget/>
 
 ## Release notes
 
-* 📃 Semantic Versioning <https://semver.org/>
-* 📃 keep a changelog <https://keepachangelog.com/>
+* Semantic Versioning <https://semver.org/>
+* keep a changelog <https://keepachangelog.com/>
 
 ## Identity Management
 
 * OAuth 2.0 Authorization Framework <https://tools.ietf.org/html/rfc6749>
 * OpenIDConnect <https://openid.net/developers/specs/>
 * JWT (JSON Web Token) <https://tools.ietf.org/html/rfc7519>
-* Auth0 <https://auth0.com/>
-* Azure Active Directory <https://azure.microsoft.com/en-us/services/active-directory/>
+* 🔺 Auth0 <https://auth0.com/>
+* 🔺 Azure Active Directory <https://azure.microsoft.com/en-us/services/active-directory/>
 
 ## Mobile App Development Platform
 
-* Firebase Cloud Messaging <https://firebase.google.com/docs/cloud-messaging>
-
-## Scaffolding
-
-* Yeoman <https://yeoman.io/>
+* 🔺 Firebase Cloud Messaging <https://firebase.google.com/docs/cloud-messaging>

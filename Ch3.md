@@ -47,8 +47,8 @@
 * BIND <https://www.isc.org/bind/> -- dig
 * Tcpdump <https://www.tcpdump.org/>
 * Wireshark <https://www.wireshark.org/>
-* 📗 Email <https://tools.ietf.org/html/rfc5322>
-* 🔷 Postfix <http://www.postfix.org/>
+* Email <https://tools.ietf.org/html/rfc5322>
+* Postfix <http://www.postfix.org/>
 
 ## Security
 
@@ -62,11 +62,45 @@
 * OWASP Top 10 <https://owasp.org/www-project-top-ten/>
 * OWASP ZAP <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>
 
-## Cloud Infrastructure
+## Configuration Management
 
-* AWS EC2/VPC and related services
-* Azure VM/VNet and related services
+* Ansible <https://www.ansible.com/>
+* cloud-init <https://cloud-init.io/>
+
+## CI/CD Pipeline
+
+* Jenkins <https://www.jenkins.io/>
+* Gitlab CI/CD <https://docs.gitlab.com/ee/ci/>
+* Concourse CI <https://concourse-ci.org/>
+* 🔺 Azure Pipelines <https://azure.microsoft.com/en-us/services/devops/pipelines/>
+
+## Secret Management
+
+* Hashicorp Vault <https://www.vaultproject.io/>
+
+## Cloud IaaS
+
+* 🔺 AWS EC2/VPC and related services
+* 🔺 Azure VM/VNet and related services
+
+## Cloud Deployment
+
+* 🔺 AWS CloudFormation <https://aws.amazon.com/cloudformation/>
+* 🔺 Azure Resource Manager <https://docs.microsoft.com/en-us/azure/azure-resource-manager/>
+* Pulumi <https://www.pulumi.com/>
 * Hashicorp Packer <https://packer.io/>
+* Hashicorp Terraform <https://www.terraform.io/>
+* Hashicorp Vagrant <https://www.vagrantup.com/>
+* Ansible <https://www.ansible.com/>
+
+## Cloud CaaS
+
+* 🔺 AWS EKS <https://aws.amazon.com/eks/>
+* 🔺 AWS Fargate <https://aws.amazon.com/fargate/>
+* 🔺 Azure Kubernetes Service <https://azure.microsoft.com/en-us/services/kubernetes-service/>
+* 🔺 GKE <https://cloud.google.com/kubernetes-engine/>
+* 🔺 Amazon ECR <https://aws.amazon.com/ecr/>
+* 🔺 Azure Container Registry <https://azure.microsoft.com/en-us/services/container-registry/>
 
 ## Cloud Native
 
@@ -77,54 +111,18 @@
 * Kubernetes <https://kubernetes.io/>
   * Minikube <https://minikube.sigs.k8s.io/docs/>
   * Helm <https://helm.sh/>
-* Docker Swarm <https://docs.docker.com/engine/swarm/>
-* AWS EKS <https://aws.amazon.com/eks/>
-* AWS Fargate <https://aws.amazon.com/fargate/>
-* Azure Kubernetes Service <https://azure.microsoft.com/en-us/services/kubernetes-service/>
-* GKE <https://cloud.google.com/kubernetes-engine/>
-* QuarkusIO <https://quarkus.io/>
-
-## Container/K8s Registry
-
-* DockerHub <https://hub.docker.com/>
-* Helm Hub <https://hub.helm.sh/>
-* Amazon ECR <https://aws.amazon.com/ecr/>
-* Azure Container Registry <https://azure.microsoft.com/en-us/services/container-registry/>
-* ChartMuseum <https://chartmuseum.com/>
-* Sonartype Nexus RM3 <https://help.sonatype.com/repomanager3>
-
-## Serverless
-
-* AWS Lambda and related services
-* Azure Functions and related services
-* OpenFaaS <https://www.openfaas.com/>
-* KNative <https://knative.dev/>
-
-## Service Mesh
-
+* 🔺 DockerHub <https://hub.docker.com/>
+* 🔺 Helm Hub <https://hub.helm.sh/>
+* Lens IDE <https://k8slens.dev/>
 * Hashicorp Consul <https://www.consul.io/>
 * Istio <https://istio.io/>
 
-## CI/CD Pipeline
+## Serverless
 
-* Jenkins <https://www.jenkins.io/>
-* Gitlab CI/CD <https://docs.gitlab.com/ee/ci/>
-* Concourse CI <https://concourse-ci.org/>
-* Azure Pipelines <https://azure.microsoft.com/en-us/services/devops/pipelines/>
-
-## Deployment
-
-* Ansible <https://www.ansible.com/>
+* 🔺 AWS Lambda and related services
+* 🔺 Azure Functions and related services
 * Serverless Framework <https://serverless.com/>
-* Hashicorp Terraform <https://www.terraform.io/>
-* AWS CloudFormation <https://aws.amazon.com/cloudformation/>
-* Azure Resource Manager <https://docs.microsoft.com/en-us/azure/azure-resource-manager/>
-* Pulumi <https://www.pulumi.com/>
-* cloud-init <https://cloud-init.io/>
-
-## Secret Management
-
-* Hashicorp Vault <https://www.vaultproject.io/>
+* OpenFaaS <https://www.openfaas.com/>
 
 ## Workload Orchestration
 
@@ -133,24 +131,25 @@
 
 ## Data collection and storage
 
-* 🔷 Promethus <https://prometheus.io/>
-* 🔷 Loki <https://grafana.com/oss/loki/>
-* 🔷 InfluxDB <https://www.influxdata.com/products/influxdb-overview/>
-* 🔷 Telegraf <https://www.influxdata.com/time-series-platform/telegraf/>
-* 🔷 ElasticSearch <https://www.elastic.co/elasticsearch/>
-* 🔷 Logstash <https://www.elastic.co/logstash>
-* 🔷 Beats <https://www.elastic.co/beats/>
-* 🔷 Fluentd <https://www.fluentd.org/>
-* 🔷 sysstat <https://github.com/sysstat/sysstat>
-* 📗 Syslog <https://tools.ietf.org/html/rfc5424>
-* 🔷 OpenTelemetry <https://opentelemetry.io/>
+* Promethus <https://prometheus.io/>
+* Loki <https://grafana.com/oss/loki/>
+* InfluxDB <https://www.influxdata.com/products/influxdb-overview/>
+* Telegraf <https://www.influxdata.com/time-series-platform/telegraf/>
+* ElasticSearch <https://www.elastic.co/elasticsearch/>
+* Logstash <https://www.elastic.co/logstash>
+* Beats <https://www.elastic.co/beats/>
+* Fluentd <https://www.fluentd.org/>
+* sysstat <https://github.com/sysstat/sysstat>
+* Syslog <https://tools.ietf.org/html/rfc5424>
+* OpenTelemetry <https://opentelemetry.io/>
 
 ## Observability
 
-* 🔷 Grafana <https://grafana.com/>
-* 🔷 Kibana <https://www.elastic.co/kibana>
-* 🔷 Vega <https://vega.github.io/vega/>
-* 🔷 Vega-Lite <https://vega.github.io/vega-lite/>
+* Grafana <https://grafana.com/>
+  * Grafonnet <https://grafana.github.io/grafonnet-lib/>
+* Kibana <https://www.elastic.co/kibana>
+* Vega <https://vega.github.io/vega/>
+* Vega-Lite <https://vega.github.io/vega-lite/>
 * 🔺 AWS CloudWatch <https://aws.amazon.com/cloudwatch/>
 * 🔺 Datadog <https://www.datadoghq.com/>
 * 🔺 Azure Monitor <https://docs.microsoft.com/en-us/azure/azure-monitor/overview>
