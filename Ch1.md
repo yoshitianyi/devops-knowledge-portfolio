@@ -1,4 +1,4 @@
-# Architecture Aspect
+# Humans Aspect
 
 ## Code of conducts
 
@@ -6,6 +6,7 @@
 * GitLab Values <https://about.gitlab.com/handbook/values/>
 * Ubuntu Code of Conduct <https://ubuntu.com/community/code-of-conduct>
 * Mozilla Community Participation Guidelines <https://www.mozilla.org/en-US/about/governance/policies/participation/>
+* The Slow Media Manifesto <http://en.slow-media.net/manifesto>
 
 ## Agile development
 

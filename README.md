@@ -10,7 +10,7 @@ Currently, this is just a personal note and significant changes may be performed
 
 ## Table of Contents
 
-* [Architecture Aspect](Ch1.md)
+* [Humans Aspect](Ch1.md)
 * [Development Aspect](Ch2.md)
 * [Operations Aspect](Ch3.md)
 
