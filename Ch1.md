@@ -37,7 +37,6 @@
 * Microservices <https://martinfowler.com/articles/microservices.html>
 * Refactoring <https://refactoring.com/>
 * Design by Contract <https://en.wikipedia.org/wiki/Design_by_contract>
-* PHP - The Wrong Way <https://phpthewrongway.com/>
 
 ## Reactive system
 
