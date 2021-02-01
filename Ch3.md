@@ -62,6 +62,21 @@
 * OWASP Top 10 <https://owasp.org/www-project-top-ten/>
 * OWASP ZAP <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>
 
+## Web/App Servers
+
+* NGINX <https://www.nginx.com/>
+* Apache Web Server <https://httpd.apache.org/>
+* Tomcat <http://tomcat.apache.org/>
+* uWSGI <https://uwsgi-docs.readthedocs.io/en/latest/>
+
+## Database/Cache Servers
+
+* ElasticSearch <https://www.elastic.co/products/elasticsearch>
+* MongoDB <https://www.mongodb.com/>
+* Redis <https://redis.io/>
+* Postgresql <https://www.postgresql.org/> / pgAdmin / pgBadger
+* SQLite <https://www.sqlite.org/index.html>
+
 ## Configuration Management
 
 * Ansible <https://www.ansible.com/>
@@ -113,7 +128,6 @@
   * Helm <https://helm.sh/>
 * 🔺 DockerHub <https://hub.docker.com/>
 * 🔺 Helm Hub <https://hub.helm.sh/>
-* Lens IDE <https://k8slens.dev/>
 * Hashicorp Consul <https://www.consul.io/>
 * Istio <https://istio.io/>
 
