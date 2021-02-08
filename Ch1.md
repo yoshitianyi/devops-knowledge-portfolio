@@ -7,6 +7,8 @@
 * Ubuntu Code of Conduct <https://ubuntu.com/community/code-of-conduct>
 * Mozilla Community Participation Guidelines <https://www.mozilla.org/en-US/about/governance/policies/participation/>
 * The Slow Media Manifesto <http://en.slow-media.net/manifesto>
+* Philosophy of the GNU Project <https://www.gnu.org/philosophy/philosophy.html>
+* The GNU Manifesto <https://www.gnu.org/gnu/manifesto.html>
 
 ## Agile development
 
