@@ -135,6 +135,7 @@
 * ISO/IEC 27001 (Information security standard) / ISMS
 * Theory of Constraints <https://www.tocico.org/page/WhatisTOCoverview>
 * _The Pragmatic Programmer_ <https://en.wikipedia.org/wiki/The_Pragmatic_Programmer>
+* _Peopleware_ <https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams>
 * _The Mythical Man-Month_ <https://en.wikipedia.org/wiki/The_Mythical_Man-Month>
 * _The Cathedral and the Bazaar_ <https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar>
 * Creative Commons <https://creativecommons.org/>
