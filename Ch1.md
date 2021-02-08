@@ -20,7 +20,6 @@
 * Acceptance Test-Driven Development <https://en.wikipedia.org/wiki/Acceptance_test%E2%80%93driven_development>
 * Test-Driven Development <https://en.wikipedia.org/wiki/Test-driven_development>
 * Toyota Production System <https://global.toyota/en/company/vision-and-philosophy/production-system/>
-* Scrum <https://www.scrum.org/>
 * Extreme Programming <http://www.extremeprogramming.org/>
 * Trunk Based Development <https://trunkbaseddevelopment.com/>
 * Feature Toggles <https://www.martinfowler.com/articles/feature-toggles.html>
