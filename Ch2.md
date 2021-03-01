@@ -36,7 +36,9 @@
 
 * JavaScript/ECMAScript <https://www.ecma-international.org/publications/standards/Ecma-262.htm>
   * Node.js <https://nodejs.org/>
-  * Express <https://expressjs.com/>
+  * Express.js <https://expressjs.com/>
+  * Axios <https://github.com/axios/axios>
+  * Chalk <https://github.com/chalk/chalk>
   * React <https://reactjs.org/>
   * Next.js <https://nextjs.org/>
   * Vue.js <https://vuejs.org/>
@@ -44,7 +46,9 @@
   * Electron <https://www.electronjs.org/>
   * Lodash <https://lodash.com/>
   * Moment.js <https://momentjs.com/>
+  * Luson <https://moment.github.io/luxon/>
   * babel <https://babeljs.io/>
+  * nodemon <https://nodemon.io/>
   * nodeenv <https://ekalinin.github.io/nodeenv/>
 * Typescript <https://www.typescriptlang.org/index.html>
 
