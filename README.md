@@ -1,12 +1,18 @@
-# DevOps Knowledge Portfolio
+# DevOps/Agile Knowledge Portfolio
 
 An opinionated knowledge and skill list to build effective **systems and teams**.
 Currently, this is just a personal note and significant changes may be performed.
 
 ## Selection Policies
 
-* Use OSS in priority
-* Use Ubuntu and Node.js as the core platform technologies
+* Use OSS in priority.
+This is important to enhance the agility since the vendors are a kind of silos
+when troubleshooting is needed.
+* Use Ubuntu and Node.js as the core platform technologies.
+They are matured enough and have their hot communities to solve the problems.
+* Study about human interface design.
+Softwere artifacts such as code, tools and documents are used by humans.
+Their better usability directly improve developer productivity.
 
 ## Table of Contents
 
@@ -20,7 +26,4 @@ Currently, this is just a personal note and significant changes may be performed
 
 ## TODO List
 
-* Add reference resource links
-* Re-restructure the categories
-* Specify the policy of selection
 * Add reasons of the importance of each item
