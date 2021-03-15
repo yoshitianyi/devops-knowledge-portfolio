@@ -85,6 +85,7 @@
 ## CI/CD Pipeline
 
 * Jenkins <https://www.jenkins.io/>
+  * Blue Ocean for Jenkins Pipelines <https://www.jenkins.io/projects/blueocean/>
 * Gitlab CI/CD <https://docs.gitlab.com/ee/ci/>
 * Concourse CI <https://concourse-ci.org/>
 * 🔺 Azure Pipelines <https://azure.microsoft.com/en-us/services/devops/pipelines/>
@@ -146,7 +147,9 @@
 ## Data collection and storage
 
 * Promethus <https://prometheus.io/>
+  * PromQL <https://prometheus.io/docs/prometheus/latest/querying/basics/>
 * Loki <https://grafana.com/oss/loki/>
+  * LogQL <https://grafana.com/docs/loki/latest/logql/>
 * InfluxDB <https://www.influxdata.com/products/influxdb-overview/>
 * Telegraf <https://www.influxdata.com/time-series-platform/telegraf/>
 * ElasticSearch <https://www.elastic.co/elasticsearch/>
@@ -162,6 +165,7 @@
 * Grafana <https://grafana.com/>
   * Grafonnet <https://grafana.github.io/grafonnet-lib/>
 * Kibana <https://www.elastic.co/kibana>
+  * KQL <https://www.elastic.co/guide/en/kibana/current/kuery-query.html>
 * Vega <https://vega.github.io/vega/>
 * Vega-Lite <https://vega.github.io/vega-lite/>
 * 🔺 AWS CloudWatch <https://aws.amazon.com/cloudwatch/>
