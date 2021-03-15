@@ -10,9 +10,9 @@ Currently, this is just a personal note and significant changes may be performed
 
 ## Table of Contents
 
-* [Humans Aspect](Ch1.md)
-* [Development Aspect](Ch2.md)
-* [Operations Aspect](Ch3.md)
+* [Humans Aspect](1-people.md)
+* [Development Aspect](2-dev.md)
+* [Operations Aspect](3-ops.md)
 
 ## Legends
 
