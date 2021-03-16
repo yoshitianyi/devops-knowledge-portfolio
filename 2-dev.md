@@ -137,11 +137,11 @@
 * Selenium IDE <https://www.selenium.dev/selenium-ide/>
 * Puppeter <https://developers.google.com/web/tools/puppeteer>
 * Gatling <https://gatling.io/>
-* Postman <https://www.getpostman.com/>
+* 🔺 Postman/Newman <https://www.getpostman.com/>
 * Karma <https://karma-runner.github.io>
 * JUnit <https://junit.org/junit5/> (reference)
 * RSpec <https://rspec.info/> (reference)
-* Cucumber <https://cucumber.io/>
+* Cucumber <https://cucumber.io/> (reference)
 
 ## World Wide Web
 
