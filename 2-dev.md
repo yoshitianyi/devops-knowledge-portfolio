@@ -155,6 +155,7 @@
 * Sass <https://sass-lang.com/>
 * cURL <https://curl.haxx.se/>
 * GNU Wget <https://www.gnu.org/software/wget/>
+* 🔺Fiddler - Web Debugging Proxy <https://www.telerik.com/fiddler>
 
 ## Release notes
 
