@@ -5,6 +5,7 @@
 * Windows 10 <https://www.microsoft.com/en-us/windows/>
   * OpenSSH for Windows <https://docs.microsoft.com/ja-jp/windows-server/administration/openssh/openssh_overview>
   * WSL <https://docs.microsoft.com/en-us/windows/wsl/>
+    * Debian <https://www.debian.org/>
   * Windows Terminal <https://docs.microsoft.com/en-us/windows/terminal/>
 * Ubuntu Desktop <https://ubuntu.com/>
   * X Window System <https://www.x.org/wiki/>

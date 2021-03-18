@@ -3,9 +3,10 @@
 ## Linux server core
 
 * Ubuntu <https://ubuntu.com/>
-* Systemd <https://www.freedesktop.org/wiki/Software/systemd/>
-* D-Bus <https://www.freedesktop.org/wiki/Software/dbus/>
 * Processes
+  * Systemd <https://www.freedesktop.org/wiki/Software/systemd/>
+  * SysVinit (reference)
+  * psmisc <https://gitlab.com/psmisc/psmisc>
   * procps <https://gitlab.com/procps-ng/procps>
   * lsof <https://github.com/lsof-org/lsof>
   * htop <https://hisham.hm/htop/>
