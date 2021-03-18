@@ -2,18 +2,22 @@
 
 ## Development OS Environment
 
-* Windows 10 <https://www.microsoft.com/en-us/windows/>
+* 🔺 Windows 10 <https://www.microsoft.com/en-us/windows/>
   * OpenSSH for Windows <https://docs.microsoft.com/ja-jp/windows-server/administration/openssh/openssh_overview>
   * WSL <https://docs.microsoft.com/en-us/windows/wsl/>
-    * Debian <https://www.debian.org/>
-  * Windows Terminal <https://docs.microsoft.com/en-us/windows/terminal/>
+* Debian <https://www.debian.org/> on WSL
+* Docker Desktop for Windows <https://hub.docker.com/editions/community/docker-ce-desktop-windows/>
+* VcXsrv Windows X Server <https://sourceforge.net/projects/vcxsrv/>
 * Ubuntu Desktop <https://ubuntu.com/>
   * X Window System <https://www.x.org/wiki/>
   * Wayland <https://wayland.freedesktop.org/>
   * GNOME 3 Desktop Environment <https://www.gnome.org/>
   * Mutter Window Manager <https://gitlab.gnome.org/GNOME/mutter>
-* Docker Desktop for Windows <https://hub.docker.com/editions/community/docker-ce-desktop-windows/>
-* VcXsrv Windows X Server <https://sourceforge.net/projects/vcxsrv/>
+
+## PC Virtualization 
+
+* 🔺 VMware Workstation Player <https://www.vmware.com/products/workstation-player.html>
+* Oracle VM VirtualBox <https://www.virtualbox.org/>
 
 ## IDE and Editors
 
