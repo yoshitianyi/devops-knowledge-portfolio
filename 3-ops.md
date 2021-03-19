@@ -43,9 +43,9 @@
 * TCP / UDP / ICMP / IPv4 / IPv6 / ARP / NTP
 * FTP / SMTP / DNS / DHCP / LDAP
 * net-tools <https://sourceforge.net/projects/net-tools/>
+* dnsutils / BIND <https://www.isc.org/bind/>
 * netfilter <https://www.netfilter.org/index.html>
 * chrony <https://chrony.tuxfamily.org/>
-* BIND <https://www.isc.org/bind/> -- dig
 * Tcpdump <https://www.tcpdump.org/>
 * Wireshark <https://www.wireshark.org/>
 * Email <https://tools.ietf.org/html/rfc5322>
