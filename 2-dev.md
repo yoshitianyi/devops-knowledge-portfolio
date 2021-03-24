@@ -6,7 +6,6 @@
   * OpenSSH for Windows <https://docs.microsoft.com/ja-jp/windows-server/administration/openssh/openssh_overview>
   * WSL <https://docs.microsoft.com/en-us/windows/wsl/>
 * Debian <https://www.debian.org/> on WSL
-* Docker Desktop for Windows <https://hub.docker.com/editions/community/docker-ce-desktop-windows/>
 * VcXsrv Windows X Server <https://sourceforge.net/projects/vcxsrv/>
 * Ubuntu Desktop <https://ubuntu.com/>
   * X Window System <https://www.x.org/wiki/>
