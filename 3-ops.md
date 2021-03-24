@@ -2,7 +2,7 @@
 
 ## Linux server core
 
-* Ubuntu <https://ubuntu.com/>
+* Ubuntu Server <https://ubuntu.com/>
 * Processes
   * Systemd <https://www.freedesktop.org/wiki/Software/systemd/>
   * SysVinit (reference)
@@ -42,6 +42,7 @@
 * The OSI Model <https://en.wikipedia.org/wiki/OSI_model>
 * TCP / UDP / ICMP / IPv4 / IPv6 / ARP / NTP
 * FTP / SMTP / DNS / DHCP / LDAP
+* NetPlan <https://netplan.io/>
 * net-tools <https://sourceforge.net/projects/net-tools/>
 * dnsutils / BIND <https://www.isc.org/bind/>
 * netfilter <https://www.netfilter.org/index.html>
