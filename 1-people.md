@@ -75,8 +75,8 @@
 * Javadoc <https://docs.oracle.com/javase/9/javadoc/javadoc.htm>
 * apiDoc <http://apidocjs.com/>
 * JSDoc <https://jsdoc.app/>
+* Sphinx <http://www.sphinx-doc.org/en/master/>
 * Groff <https://www.gnu.org/software/groff/>
-* Gatsby <https://www.gatsbyjs.com/>
 * Docusaurus <https://docusaurus.io/>
 * VuePress <https://vuepress.vuejs.org/>
 
