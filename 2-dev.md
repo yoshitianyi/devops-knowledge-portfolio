@@ -22,7 +22,8 @@
 ## IDE and Editors
 
 * VS Code <https://code.visualstudio.com/>
-  * Remote Development <https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>
+  * VS Code Remote Development <https://code.visualstudio.com/docs/remote/remote-overview>
+  * 🔺 Visual Studio Live Share <https://visualstudio.microsoft.com/services/live-share/>
   * Draw.io Integration <https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio>
 * Typora <https://typora.io/>
 * Kubernetes Lens IDE <https://k8slens.dev/>

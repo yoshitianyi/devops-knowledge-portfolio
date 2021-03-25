@@ -22,7 +22,7 @@ Their better usability directly improve developer productivity.
 
 ## Legends
 
-* 🔺 = Cloud Service or Server Product
+* 🔺 = Cloud Service or Commercial Software
 
 ## TODO List
 
