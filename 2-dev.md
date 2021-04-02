@@ -83,6 +83,7 @@
 ## Source Code Management and Registry
 
 * Git <https://git-scm.com/>
+  * Git LFS <https://git-lfs.github.com/>
 * GitLens <https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens>
 * Git Graph <https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph>
 * Git for Windows <https://gitforwindows.org/>
