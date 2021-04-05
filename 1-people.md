@@ -4,6 +4,7 @@
 
 * Amazon's Leadership Principles <https://www.amazon.jobs/en/principles>
 * GitLab Values <https://about.gitlab.com/handbook/values/>
+* Debian Constitution <https://www.debian.org/devel/constitution>
 * Ubuntu Code of Conduct <https://ubuntu.com/community/code-of-conduct>
 * Mozilla Community Participation Guidelines <https://www.mozilla.org/en-US/about/governance/policies/participation/>
 * The Slow Media Manifesto <http://en.slow-media.net/manifesto>
