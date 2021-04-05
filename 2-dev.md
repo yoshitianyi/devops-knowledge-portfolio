@@ -159,6 +159,7 @@
 * DOM <https://www.w3.org/DOM/DOMTR>
 * OpenAPI (Swagger) <https://swagger.io/docs/specification/about/>
 * CORS (Cross-Origin Resource Sharing) <https://www.w3.org/TR/cors/>
+* CSP (Content Security Policy) <https://content-security-policy.com/>
 * Sass <https://sass-lang.com/>
 * cURL <https://curl.haxx.se/>
 * GNU Wget <https://www.gnu.org/software/wget/>
