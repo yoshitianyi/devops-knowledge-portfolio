@@ -120,8 +120,9 @@
 ## Other references
 
 * Psychological safety <https://en.wikipedia.org/wiki/Psychological_safety>
+* Cognitive distortion <https://en.wikipedia.org/wiki/Cognitive_distortion>
 * Broken windows theory <https://en.wikipedia.org/wiki/Broken_windows_theory>
-* Maslow’s Hierarchy of Needs
+* Maslow’s Hierarchy of Needs <https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs>
 * DIKW Pyramid <https://en.wikipedia.org/wiki/DIKW_pyramid>
 * Dickerson’s Hierarchy of Service Reliability
 * Seven stages of action <https://en.wikipedia.org/wiki/Seven_stages_of_action>
