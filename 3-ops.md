@@ -60,6 +60,7 @@
 * OpenSSL <https://www.openssl.org/>
 * Secure Shell (SSH) Transport Layer Protocol <https://tools.ietf.org/html/rfc4253>
 * OpenSSH <https://www.openssh.com/> / SSH Tunnelling
+  * ssh-agent / keychain / ssh-copy-id
 * OpenPGP/GPG <https://gnupg.org/>
 * OWASP Top 10 <https://owasp.org/www-project-top-ten/>
 * OWASP ZAP <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>
