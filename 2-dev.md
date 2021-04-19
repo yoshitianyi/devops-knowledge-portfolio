@@ -3,16 +3,12 @@
 ## Development OS Environment
 
 * 🔺 Windows 10 <https://www.microsoft.com/en-us/windows/>
-  * OpenSSH for Windows <https://docs.microsoft.com/ja-jp/windows-server/administration/openssh/openssh_overview>
   * WSL <https://docs.microsoft.com/en-us/windows/wsl/>
 * Debian GNU/Linux <https://www.debian.org/> for WSL/VM
-* Alpine Linux <https://alpinelinux.org/> for containers
 * Ubuntu Desktop <https://ubuntu.com/>
-  * X Window System <https://www.x.org/wiki/>
-  * Wayland <https://wayland.freedesktop.org/>
   * GNOME 3 Desktop Environment <https://www.gnome.org/>
-  * Mutter Window Manager <https://gitlab.gnome.org/GNOME/mutter>
-* VcXsrv Windows X Server <https://sourceforge.net/projects/vcxsrv/>
+  * Samba <https://www.samba.org/>
+  * x11vnc <https://github.com/LibVNC/x11vnc>
 
 ## PC Virtualization 
 

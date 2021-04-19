@@ -35,7 +35,13 @@
   * awk / sed / grep / tr
   * cron / logrotate / envsubst
 * Virtual Display
-  * xvfb
+  * X Window System <https://www.x.org/wiki/>
+  * Wayland <https://wayland.freedesktop.org/>
+  * tightvncserver <https://www.tightvnc.com/>
+  * openbox <http://openbox.org/>
+  * xvnc / xvfb
+  * UltraVNC <https://www.uvnc.com/>
+  * VcXsrv Windows X Server <https://sourceforge.net/projects/vcxsrv/>
 
 ## TCP/IP network
 
