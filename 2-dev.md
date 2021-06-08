@@ -64,8 +64,9 @@
 ## Other Programming Languages and Frameworks
 
 * Python <https://www.python.org/>
-  * Django <https://www.djangoproject.com/>
-  * Flask <https://www.palletsprojects.com/p/flask/> (reference)
+  * Typer <https://typer.tiangolo.com/>
+  * FastAPI <https://fastapi.tiangolo.com/>
+  * Django <https://www.djangoproject.com/> (reference)
   * virtualenv <https://virtualenv.pypa.io/>
 * Ruby <https://www.ruby-lang.org/en/>
 * Go <https://golang.org/>
@@ -118,8 +119,7 @@
 
 ## Templating
 
-* Jinja2 <https://www.palletsprojects.com/p/jinja/>
-* Nunjucks <https://mozilla.github.io/nunjucks/>
+* Jinja2 (for Ansible) <https://www.palletsprojects.com/p/jinja/>
 * mustache <https://mustache.github.io/>
 * Jsonnet <https://jsonnet.org/>
 
