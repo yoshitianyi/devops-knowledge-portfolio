@@ -145,6 +145,7 @@
 * JUnit <https://junit.org/junit5/> (reference)
 * RSpec <https://rspec.info/> (reference)
 * Cucumber <https://cucumber.io/> (reference)
+* LCOV format <http://ltp.sourceforge.net/coverage/lcov.php>
 
 ## World Wide Web
 
