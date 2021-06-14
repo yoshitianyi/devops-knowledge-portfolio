@@ -5,14 +5,13 @@ Currently, this is just a personal note and significant changes may be performed
 
 ## Selection Policies
 
-* Use OSS in priority.
+We shall use FLOSS in priority.
 This is important to enhance the agility since the vendors are a kind of silos
 when troubleshooting is needed.
-* Use Ubuntu and Node.js as the core platform technologies.
-They are matured enough and have their hot communities to solve the problems.
-* Study about human interface design.
-Softwere artifacts such as code, tools and documents are used by humans.
-Their better usability directly improve developer productivity.
+
+We shall consider human interface design.
+Software artifacts such as code, tools and documents are used by humans.
+The more usability the system has, the more productivity the team has.
 
 ## Table of Contents
 
@@ -23,7 +22,3 @@ Their better usability directly improve developer productivity.
 ## Legends
 
 * 🔺 = Cloud Service or Commercial Software
-
-## TODO List
-
-* Add reasons of the importance of each item
