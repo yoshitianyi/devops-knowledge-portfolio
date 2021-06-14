@@ -19,6 +19,21 @@ The more usability the system has, the more productivity the team has.
 * [Development Aspect](2-dev.md)
 * [Operations Aspect](3-ops.md)
 
+## Related 'Awesome' Lists
+
+* [SysAdmin](https://github.com/kahun/awesome-sysadmin)
+* [Shell](https://github.com/alebcay/awesome-shell)
+* [Docker](https://github.com/veggiemonk/awesome-docker)
+* [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+* [Nodejs](https://github.com/sindresorhus/awesome-nodejs)
+* [Python](https://github.com/vinta/awesome-python)
+* [VSCode](https://github.com/viatsko/awesome-vscode)
+* [RemoteJob](https://github.com/lukasz-madon/awesome-remote-job)
+
 ## Legends
 
 * 🔺 = Cloud Service or Commercial Software
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
